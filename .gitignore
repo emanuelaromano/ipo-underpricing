@@ -1,7 +1,5 @@
-Balanced_Encode_Class.csv
-Clean_Encode_Class.csv
-Clean_Encode_Reg.csv
-Encoded_data.csv
-Issuer_removed_data.csv
-Label_Converted_data.csv
-processed_output.csv
+# Ignore all CSV files
+*.csv
+
+# Do not ignore bloomberg_data.csv
+!bloomberg_data.csv
