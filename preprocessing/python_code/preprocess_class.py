@@ -20,7 +20,7 @@ def convert_offer_to_underpriced(input_file, output_file):
         reader = csv.reader(infile)
         writer = csv.writer(outfile)
 
-        # Read header and find target column indexes
+
         headers = next(reader)
         try:
             col_index_offer = headers.index('Offer To 1st Close')
@@ -28,36 +28,32 @@ def convert_offer_to_underpriced(input_file, output_file):
         except ValueError as e:
             raise ValueError(f"Required column not found: {e}")
 
-        # Create new header: remove 'Offer To 1st Close' + replace 'Trade Date (US)' with new columns + add 'Underpriced'
         new_headers = [
             h for i, h in enumerate(headers) if i not in [col_index_offer, col_index_trade_date]
         ] + ['Trade Month', 'Trade Day', 'Trade Year', 'Underpriced']
         writer.writerow(new_headers)
 
-        # Process rows
         for row in reader:
             new_row = [v for i, v in enumerate(row) if i not in [col_index_offer, col_index_trade_date]]
 
-            # Process 'Offer To 1st Close' to determine 'Underpriced'
             offer_value = row[col_index_offer].strip() if len(row) > col_index_offer else '0'
             try:
                 underpriced = '1' if float(offer_value) > 0 else '0'
             except ValueError:
                 underpriced = '0'
 
-            # Process 'Trade Date (US)'
             trade_month, trade_day, trade_year = '0', '0', '0'
             if len(row) > col_index_trade_date:
                 trade_date = row[col_index_trade_date].strip()
 
-                if '/' in trade_date:  # M/D/YYYY format
+                if '/' in trade_date:  
                     parts = trade_date.split("/")
                     if len(parts) == 3 and all(part.isdigit() for part in parts):
                         month, day, year = map(int, parts)
                         if 1 <= month <= 12 and 1 <= day <= 31 and 1000 <= year <= 9999:
                             trade_month, trade_day, trade_year = str(month), str(day), str(year)
 
-                elif '-' in trade_date:  # YYYY-MM-DD format
+                elif '-' in trade_date:  
                     parts = trade_date.split("-")
                     if len(parts) == 3 and all(part.isdigit() for part in parts):
                         year, month, day = map(int, parts)
