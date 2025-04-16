@@ -1,5 +1,1 @@
-# Ignore all CSV files
-*.csv
-
-# Do not ignore bloomberg_data.csv
-!bloomberg_data.csv
+/venv/
