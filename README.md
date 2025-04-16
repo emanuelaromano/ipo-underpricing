@@ -73,25 +73,6 @@ The analysis includes:
 - Model evaluation using accuracy, F1 score, precision, and recall
 - Feature importance analysis
 
-## Project Structure
-
-```
-.
-├── build_dataset/
-│   └── build_dataset.ipynb    # Main data processing notebook
-├── data_analysis/
-│   ├── regression.ipynb       # Regression analysis notebook
-│   └── classification.ipynb   # Classification analysis notebook
-├── input_csv/
-│   ├── bloomberg_data_raw.csv # Raw Bloomberg data
-│   ├── DFF.csv               # Federal Funds Rate data
-│   ├── CPI.csv               # Consumer Price Index data
-│   ├── UMCSENT.csv           # Consumer Sentiment data
-│   └── UNRATE.csv            # Unemployment Rate data
-└── output_csv/
-    └── bloomberg_data.csv    # Final processed dataset
-```
-
 ## Dependencies
 
 The project uses the following Python libraries:
