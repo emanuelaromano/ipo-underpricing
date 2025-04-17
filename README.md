@@ -45,5 +45,6 @@ The pipeline combines data from the following sources:
 
 1. Place all input CSV files in the `input_csv` directory
 2. Run the `build_dataset.ipynb` notebook to process the data
-3. Use either `regression.ipynb` or `classification.ipynb` to perform the desired analysis
-4. Find the processed dataset in `output_csv/bloomberg_data.csv`
+3. Run the `initial_data_exploration.ipynb` notebook to make an initial exploration of the data
+4. Use either `regression.ipynb` or `classification.ipynb` to perform the desired analysis
+5. Find the processed dataset in `output_csv/bloomberg_data.csv`
