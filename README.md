@@ -41,49 +41,6 @@ The pipeline combines data from the following sources:
    - Removes intermediate timestamp columns
    - Preserves all original data points
 
-## Analysis Components
-
-### Regression Analysis
-The regression analysis focuses on predicting the "Offer To 1st Close" percentage change using various machine learning models:
-- Linear Regression
-- Ridge Regression
-- Lasso Regression
-- Elastic Net
-- LightGBM
-- Support Vector Regression (SVR)
-
-Key features used include:
-- Company financial metrics (Sales Growth, Profit Margin, ROA)
-- Market indicators (Offer Size, Shares Outstanding, Market Cap)
-- Economic indicators (Fed Rate, CPI, Consumer Confidence, Unemployment)
-- Industry sector information
-- Temporal features (Trade Month, Day, Year)
-
-### Classification Analysis
-The classification analysis predicts whether an IPO will be underpriced (Offer To 1st Close < 0) using:
-- Logistic Regression
-- Random Forest
-- K-Nearest Neighbors
-- Support Vector Classifier
-- LightGBM Classifier
-
-The analysis includes:
-- Feature engineering and preprocessing
-- Handling class imbalance using SMOTE
-- Model evaluation using accuracy, F1 score, precision, and recall
-- Feature importance analysis
-
-## Dependencies
-
-The project uses the following Python libraries:
-- pandas
-- numpy
-- seaborn
-- matplotlib
-- scikit-learn
-- lightgbm
-- imbalanced-learn (for SMOTE)
-
 ## Usage
 
 1. Place all input CSV files in the `input_csv` directory
