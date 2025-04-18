@@ -1,4 +1,3 @@
 /venv/
 .DS_Store
-# /data_analysis/output_csv/*
-# !/data_analysis/output_csv/
+data_analysis/output_csv/
