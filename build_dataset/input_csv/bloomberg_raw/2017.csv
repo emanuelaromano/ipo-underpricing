@@ -1,0 +1,786 @@
+Issuer Ticker,Issuer Name,Offer Size (M),Sales - 1 Yr Growth,Profit Margin,Return on Assets,Shares Outstanding (M),Offer Price,Offer To 1st Close,Market Cap at Offer (M),Trade Date (US),cusip,Cash Flow per Share,Instit Owner (Shares Held),Filing Term Price Range,Priced Range,Industry Group,Industry Sector,Industry Subgroup,Instit Owner (% Shares Out)
+SNAP US,Snap Inc,3910,16.4,-13,-8.7,677.184,17,44,19673.6,3/2/17,83304A106,0.2,1.10E+09,"14.00
+ - 16.00
+",Priced Above Range,Internet,Communications,Internet Content-Entmnt,76.4556
+EQH US,Equitable Holdings Inc,3156.75,18.1,10.5,0.4,561,20,1.700000048,11220,5/10/18,2.95E+105,6.2,3.26E+08,"24.00
+ - 27.00
+",Priced Below Range,Insurance,Financial,Life/Health Insurance,106.108
+ATUS US,Altice USA Inc,2151.73,-3,-1.1,-0.3,246.751,30,9.033333778,22112.1,6/22/17,02156K103,3.4,2.94E+08,"27.00
+ - 31.00
+",Priced Within Range,Media,Communications,Cable/Satellite TV,103.823
+INVH US,Invitation Homes Inc,1771,7.6,17.3,2.3,313.667,20,0,6273.34,2/1/17,46187W107,1.7,6.65E+08,"18.00
+ - 21.00
+",Priced Within Range,REITS,Financial,REITS-Apartments,108.451
+ADT US,ADT Inc,1470,-1.6,10.2,3.1,748.949,14,-11.5,10485.3,1/19/18,00090Q103,2,7.53E+08,"17.00
+ - 19.00
+",Priced Below Range,Commercial Services,"Consumer, Non-cyclical",Protection-Safety,94.9965
+VICI US,VICI Properties Inc,1391.5,6.5,69.5,5.9,359.354,20,10,7187.08,2/1/18,925652109,2.2,9.67E+08,"19.00
+ - 21.00
+",Priced Within Range,REITS,Financial,REITS-Diversified,91.5459
+JTWO LN,API Group Corp,1210,,-15.5,-5.8,0,10,6.949999809,0, ,N.A.,1.1,806264, ,,Commercial Services,"Consumer, Non-cyclical",Commercial Services,0.34278
+SRUNU US,Alta Mesa Resources Inc,1035,-2.6,-90,-48.5,103.5,10,3.599999905,1035,3/24/17,82812A202,,,"10.00
+ - 10.00
+",Priced Within Range,Oil&Gas,Energy,Oil Comp-Explor&Prodtn,
+GBTC US,Grayscale Bitcoin Trust ETF,1000,,,,0,0,,0, ,389637109,,7.12E+07, ,,Alternative Fund,Funds,Unclassified,29.5644
+IR US,Ingersoll Rand Inc,949.9,5.2,11.5,5,195.927,20,5.5,3918.54,5/12/17,45687V106,3.4,5.10E+08,"23.00
+ - 26.00
+",Priced Below Range,Machinery-Diversified,Industrial,Machinery-Pumps,126.555
+AM US,Antero Midstream Corp,875.375,6.1,36.2,6.9,186.17,23.5,-6.382978916,4375,5/4/17,03676B102,1.7,4.22E+08,"22.00
+ - 25.00
+",Priced Within Range,Pipelines,Energy,Pipelines,88.2414
+BPMP US,BP Midstream Partners LP,860.299,-6.9,126.8,20.5,57.6699,18,-4.166666508,1038.06,10/26/17,0556EL109,3.5,,"19.00
+ - 21.00
+",Priced Below Range,Pipelines,Energy,Pipelines,
+GTES US,Gates Industrial Corp PLC,841.225,-4.5,5.7,2.7,289.75,19,-2.631578922,5505.25,1/25/18,N.A.,1.4,3.10E+08,"18.00
+ - 21.00
+",Priced Within Range,Machinery-Diversified,Industrial,Machinery-General Indust,120.208
+COLD US,Americold Realty Trust Inc,833.52,-0.2,-3.5,-1.2,142.388,16,11.0625,2208.61,1/19/18,03064D108,1.4,3.39E+08,"14.00
+ - 16.00
+",Priced Within Range,REITS,Financial,REITS-Warehouse/Industr,119.022
+HUD US,Hudson Ltd,748.938,1.5,0.6,-5.8,39.4178,19,-7.368421078,1757.7,2/1/18,N.A.,5.4,,"19.00
+ - 21.00
+",Priced Within Range,Retail,"Consumer, Cyclical",Retail-Misc/Diversified,
+SPCE/U US,Virgin Galactic Holdings Inc,690,3.4,-4928,-32.3,69,10,3.099999905,690,9/14/17,92766K205,-14.1,9.68E+07,"10.00
+ - 10.00
+",Priced Within Range,Aerospace/Defense,Industrial,Aerospace/Defense,117.352
+TPGE/U US,Magnolia Oil & Gas Corp,650,7.2,27.8,13.1,65,10,1.399999976,650,5/5/17,872656202,4.9,129500, ,,Oil&Gas,Energy,Oil Comp-Explor&Prodtn,0.199231
+SWCH US,Switch Inc,610.938,15.7,0.9,12.4,35.9375,17,22.58823586,610.938,10/6/17,87105L104,1.9,1.51E+07,"14.00
+ - 16.00
+",Priced Above Range,Telecommunications,Communications,Telecom Services,9.57384
+1337 HK,Razer Inc,608.456,33.3,2.8,3.7,9022.56,3.88,18.04123306,4486.91, ,N.A.,0.00533911,4.58E+09,"2.93
+ - 4.00
+",Priced Within Range,Computers,Technology,Computers-Other,51.9325
+WSPT US,Workspace Property Trust,585,96.1,-29.9,,46.1582,0,,0, ,981397102,,,"12.00
+ - 15.00
+",,REITS,Financial,REITS-Office Property,
+AQUA US,Evoqua Water Technologies Corp,575.001,18.6,4.1,3.6,113.282,18,16,2039.08,11/2/17,30057T105,1.5,1.14E+07,"17.00
+ - 19.00
+",Priced Within Range,Environmental Control,Industrial,Water Treatment Systems,9.30194
+VEACU US,Vantage Energy Acquisition Corp,552,,,0.7,47.2,10,0,472,4/11/17,92211L204,-0.2,,"10.00
+ - 10.00
+",Priced Within Range,Holding Companies-Divers,Diversified,Specified Purpose Acquis,
+ECVT US,Ecovyst Inc,507.5,1.9,-0.9,-0.3,135.22,17.5,-1.428571463,2366.35,9/29/17,27923Q109,1.2,1.11E+08,"21.00
+ - 23.00
+",Priced Below Range,Chemicals,Basic Materials,Chemicals-Specialty,94.4755
+CLBK US,Columbia Financial Inc,498.32,7.3,-6.4,-0.1,115.889,10,54.20000076,1158.89,4/20/18,197641103,0.3,8.96E+07,"10.00
+ - 10.00
+",Priced Within Range,Diversified Finan Serv,Financial,Invest Mgmnt/Advis Serv,85.5607
+1837688D LN,Radius Global Infrastructure I,484,30.7,-44.8,-6.5,0,10,-2.5,0, ,N.A.,-0.2,3.28E+07, ,,Real Estate,Financial,Real Estate Oper/Develop,32.8854
+ILPT US,Industrial Logistics Properties Trust,480,1.1,-21.6,-1.7,65,24,-2.708333254,1560,1/12/18,456237106,0.0298796,3.90E+07,"28.00
+ - 31.00
+",Priced Below Range,REITS,Financial,REITS-Warehouse/Industr,58.9933
+FSACU US,Federal Street Acquisition Corp,460,,,,46,10,1,460,7/19/17,31421V206,,480200,"10.00
+ - 10.00
+",Priced Within Range,Pharmaceuticals,"Consumer, Non-cyclical",Medical-Whsle Drug Dist,1.04391
+TPGH/U US,Accel Entertainment Inc,450,5.1,2.8,3.5,45,10,2.5,450,6/28/17,N.A.,1.4,2.69E+06,"10.00
+ - 10.00
+",Priced Within Range,Entertainment,"Consumer, Cyclical",Casino Services,5.07164
+9992011D US,FTS International Inc,403.65,-66.1,-14.3,18.7,109.275,18,14.5,1966.95,2/2/18,30283W203,-3.1,2.72E+06,"15.00
+ - 18.00
+",Priced Within Range,Oil&Gas Services,Energy,Oil-Field Services,50.5472
+1875234D US,Custom Truck One Source Inc,402.5,-3.3,-1.5,-0.8,40.25,10,0.200000003,402.5,8/16/17,N.A.,0.5,306859,"10.00
+ - 10.00
+",Priced Within Range,Commercial Services,"Consumer, Non-cyclical",Rental Auto/Equipment,0.609906
+PUMP US,ProPetro Holding Corp,402.5,-11.4,-9.5,-10.2,83.0399,14,3.571428537,1162.56,3/17/17,74347M108,2.3,1.01E+08,"16.00
+ - 19.00
+",Priced Below Range,Oil&Gas Services,Energy,Oil-Field Services,98.1115
+EYE US,National Vision Holdings Inc,399.74,-14.2,-1.5,-1.3,74.6538,22,26.5,1642.38,10/26/17,63845R107,1.7,8.48E+07,"18.00
+ - 20.00
+",Priced Above Range,Retail,"Consumer, Cyclical",Retail-Vision Serv Cntr,107.591
+KAACU US,Kinetik Holdings Inc,377.321,18,16.4,3.6,37.7321,10,0,377.321,3/30/17,48661U201,10.7,1.37E+07,"10.00
+ - 10.00
+",Priced Within Range,Pipelines,Energy,Pipelines,36.4268
+MPMQ US,MPM Holdings Inc/DE,364.582,16,2.5,2.4,58.5383,0,,0, ,55336L102,4.5,,"23.00
+ - 25.00
+",,Chemicals,Basic Materials,Chemicals-Specialty,
+WOW US,WideOpenWest Inc,356.5,-8.1,-9.3,-3.8,87.4694,17,-2.941176414,1486.98,5/25/17,96758W101,2,7.25E+07,"20.00
+ - 22.00
+",Priced Below Range,Media,Communications,Cable/Satellite TV,85.5699
+STNLU US,Sentinel Energy Services Inc,345,,,-266.6,34.5,10,0.5,345,11/3/17,81728P204,-0.0444644,,"10.00
+ - 10.00
+",Priced Within Range,Holding Companies-Divers,Diversified,Specified Purpose Acquis,
+MOSC/U US,Vivint Smart Home Inc,345,13.7,-3,-1.8,34.5,10,1.5,345,10/19/17,61946M209,0.1,1.35E+06,"10.00
+ - 10.00
+",Priced Within Range,Commercial Services,"Consumer, Non-cyclical",Protection-Safety,3.92522
+FPH US,Five Point Holdings LLC,338.1,12.3,28.7,2.2,143.064,14,7.428571224,3143.38,5/10/17,33833Q106,0.7,5.01E+07,"18.00
+ - 20.00
+",Priced Below Range,Real Estate,Financial,Real Estate Oper/Develop,71.66
+1719252D US,Haymaker Acquisition Corp,330,,,,33,10,0.1000000015,0,10/25/17,420870206,,283476,"10.00
+ - 10.00
+",Priced Within Range,Leisure Time,"Consumer, Cyclical",Recreational Centers,0.687215
+1871321D US,US Well Services Inc,325,2.6,-28.1,-19.8,32.5,10,0.1000000015,325,3/10/17,57682V205,-0.6,,"10.00
+ - 10.00
+",Priced Within Range,Oil&Gas Services,Energy,Oil-Field Services,
+EAGLU US,Target Hospitality Corp,325,-31.4,18.4,10,32.5,10,0.1000000015,325,1/12/18,727653206,1.5,2.08E+06,"10.00
+ - 10.00
+",Priced Within Range,Commercial Services,"Consumer, Non-cyclical",Commercial Services,6.39077
+NMRK US,Newmark Group Inc,322,10.8,2.2,1.3,138.594,14,-0.3571428657,1940.32,12/15/17,65158N102,-0.0577074,1.22E+08,"14.00
+ - 15.00
+",Priced Within Range,Real Estate,Financial,Real Estate Mgmnt/Servic,76.8585
+HCC US,Warrior Met Coal Inc,316.667,-9,16.4,10.1,53.5,19,-5.263157845,1016.5,4/13/17,93627C101,7,5.83E+07,"17.00
+ - 19.00
+",Priced Within Range,Coal,Energy,Coal,111.015
+WRLSU US,American Virtual Cloud Technol,310.5,-16.1,-236.7,-94.5,31.05,10,0.400000006,310.5,7/27/17,7.10E+208,-5,,"10.00
+ - 10.00
+",Priced Within Range,Computers,Technology,Computer Services,
+EEX US,Emerald Holding Inc,303.025,4.1,0.5,0.2,72.2022,17,14.70588207,1227.44,4/28/17,29103W104,0.3,1.98E+08,"18.00
+ - 20.00
+",Priced Below Range,Commercial Services,"Consumer, Non-cyclical",Commercial Services,99.0411
+RWGE/U US,Regalwood Global Energy Ltd,300,,,1.9,30,10,0,300,12/1/17,N.A.,-0.00925549,,"10.00
+ - 10.00
+",Priced Within Range,Holding Companies-Divers,Diversified,Specified Purpose Acquis,
+APRN US,Blue Apron Holdings Inc,300,-2.5,-23.9,-83.1,30.0427,10,0,1890.58,6/29/17,09523Q309,-30.2,978244,"10.00
+ - 11.00
+",Priced Within Range,Food,"Consumer, Non-cyclical",Food-Retail,12.7101
+OMAD/U US,Ranpak Holdings Corp,300,9.6,-5.8,-1.6,30,10,0,300,1/18/18,N.A.,0.5,,"10.00
+ - 10.00
+",Priced Within Range,Packaging&Containers,Industrial,Containers-Paper/Plastic,
+LGC/U US,PARTS iD Inc,300,-24,-5.2,-88.4,30,10,0,300,11/17/17,524643202,-0.5,,"10.00
+ - 10.00
+",Priced Within Range,Internet,Communications,E-Commerce/Products,
+DNLI US,Denali Therapeutics Inc,287.5,,,-33.4,90.0628,18,19.16666603,1583.63,12/8/17,24823R105,-2.1,1.37E+08,"17.00
+ - 19.00
+",Priced Within Range,Biotechnology,"Consumer, Non-cyclical",Medical-Biomedical/Gene,94.27
+2542797D US,Sailpoint Technologies Holdings Inc,276,20.1,-14,-8.4,87.0543,12,8.333333015,1044.65,11/17/17,78781P105,-0.0103276,2.35E+07,"9.00
+ - 11.00
+",Priced Above Range,Software,Technology,Enterprise Software/Serv,24.7905
+OSPRU US,Str Sub Inc,275,,,,27.5,10,0.200000003,275,7/21/17,688397207,,,"10.00
+ - 10.00
+",Priced Within Range,Oil&Gas,Energy,Oil-US Royalty Trusts,
+NEBUU US,NAC Surviving Corp,275,,,0.4,27.5,10,0.200000003,275,1/10/18,629076209,-0.0821579,2.00E+06,"10.00
+ - 10.00
+",Priced Within Range,Holding Companies-Divers,Diversified,Specified Purpose Acquis,5.81818
+TEAF US,Tortoise Sustainable and Social Impact Term Fund,260,,,,0,20,0,0,3/27/19,27901F109,,5.03E+06,"20.00
+ - 20.00
+",Priced Within Range,Closed-end Funds,Financial,Closed-end Funds,37.2764
+CLDR US,Cloudera Inc,258.75,9.4,-18.7,-6.2,130.314,15,20.66666603,1954.71,4/28/17,18914U100,0.5,,"12.00
+ - 14.00
+",Priced Above Range,Software,Technology,Computer Software,
+HCAC/U US,NRC Group Holdings Corp,256.65,29.7,-13.1,-21.7,25.665,10,0,256.65,6/23/17,42588L204,-1,,"10.00
+ - 10.00
+",Priced Within Range,Environmental Control,Industrial,Environ Consulting&Eng,
+MULE US,MuleSoft Inc,254.15,57.9,-26.9,-23,14.95,17,45.58823395,2141.86,3/17/17,625207105,0.0185586,95103,"14.00
+ - 16.00
+",Priced Above Range,Software,Technology,Enterprise Software/Serv,0.100727
+ROKU US,Roku Inc,252.255,18,-3.1,-3,94.7485,14,67.85713959,219.352,9/28/17,77543R102,1.5,1.15E+08,"12.00
+ - 14.00
+",Priced Within Range,Internet,Communications,Internet Content-Entmnt,89.5169
+DFBHU US,AdaptHealth Corp,250,1.9,2.7,2,25,10,0,250,2/16/18,2.33E+212,4,,"10.00
+ - 10.00
+",Priced Within Range,Pharmaceuticals,"Consumer, Non-cyclical",Medical-Whsle Drug Dist,
+VNCR US,Vencore Holding Corp,250,0.1,0.087923,,0,0,,0, ,N.A.,,, ,,Computers,Technology,Computer Services,
+LBRT US,Liberty Energy Inc,248.894,-9.1,7.3,7.8,70.8848,17,27.94117737,1205.04,1/12/18,53115L104,5,1.77E+08,"14.00
+ - 16.00
+",Priced Above Range,Oil&Gas Services,Energy,Oil-Field Services,109.456
+KREF US,KKR Real Estate Finance Trust Inc,241.644,-10.2,5.9,0.5,53.7118,20.5,7.951219559,1101.09,5/5/17,48251K100,1.9,5.33E+07,"20.50
+ - 21.50
+",Priced Within Range,REITS,Financial,REITS-Mortgage,77.568
+TRTX US,TPG RE Finance Trust Inc,233,-9.8,21.1,1.8,60.1265,20,-2.099999905,1202.53,7/20/17,87266M107,1.4,7.84E+07,"20.00
+ - 21.00
+",Priced Within Range,REITS,Financial,REITS-Mortgage,97.5629
+INDUU US,Industrea Acquisition Corp,230,,,,23,10,0.3000000119,230,7/27/17,45579J203,,,"10.00
+ - 10.00
+",Priced Within Range,Environmental Control,Industrial,Non-hazardous Waste Disp,
+NESRU US,National Energy Services Reunited Corp,229.217,13.6,5.8,,22.9217,10,0,229.217,5/12/17,N.A.,2.4,4.35E+07,"10.00
+ - 10.00
+",Priced Within Range,Oil&Gas Services,Energy,Oil-Field Services,50.851
+CVNA US,Carvana Co,225,26.9,1.5,2.7,15,15,-26,225,4/28/17,146869102,7.5,1.34E+08,"14.00
+ - 16.00
+",Priced Within Range,Retail,"Consumer, Cyclical",Retail-Automobile,99.5632
+MDB US,MongoDB Inc,220.8,19.2,-6.4,-4.1,9.2682,24,33.625,1204.04,10/19/17,60937P106,2,7.99E+07,"20.00
+ - 22.00
+",Priced Above Range,Software,Technology,Computer Software,98.4598
+HLNE US,Hamilton Lane Inc,218.501,5.6,24.9,15.3,18.8518,16,12.625,301.629,3/1/17,407497106,3.1,4.49E+07,"15.00
+ - 17.00
+",Priced Within Range,Diversified Finan Serv,Financial,Invest Mgmnt/Advis Serv,103.678
+OKTA US,Okta Inc,215.05,15.3,1,0.3,12.65,17,38.29411697,187,4/7/17,679295105,4.4,1.47E+08,"15.00
+ - 17.00
+",Priced Within Range,Computers,Technology,Computer Data Security,88.7561
+FND US,Floor & Decor Holdings Inc,213.087,0.9,4.6,4.2,92.3586,21,52.61904907,1939.53,4/27/17,339750101,5.6,1.29E+08,"16.00
+ - 18.00
+",Priced Above Range,Retail,"Consumer, Cyclical",Retail-Floor Coverings,119.906
+EFL US,Eaton Vance Floating-Rate 2022 Target Term Trust,210,,,,0,10,0.1000000015,0,7/27/17,27831H100,,134326,"10.00
+ - 10.00
+",Priced Within Range,Closed-end Funds,Financial,Closed-end Funds,0.567285
+SBT US,Sterling Bancorp Inc/MI,207,5.1,3.7,0.0881193,52.9633,12,1.333333373,635.56,11/17/17,85917W102,-0.0416308,1.42E+07,"12.00
+ - 14.00
+",Priced Within Range,Banks,Financial,Commer Banks-Central US,27.0607
+MMDMU US,Modern Media Acquisition Corp,207,,,0.3,20.7,10,1.100000024,207,5/12/17,60765P202,-0.2,,"10.00
+ - 10.00
+",Priced Within Range,Internet,Communications,Internet Content-Info/Ne,
+FBM US,Foundation Building Materials Inc,206.08,5.3,1.8,3.2,42.7742,14,10.71428585,598.839,2/10/17,350392106,3.3,,"17.00
+ - 19.00
+",Priced Below Range,Retail,"Consumer, Cyclical",Retail-Building Products,
+2238067D US,Safehold Inc,205,-73.9,28.3,2.6,18.19,20,-5,363.8,6/22/17,78645L100,0.2,4.23E+07,"19.00
+ - 21.00
+",Priced Within Range,REITS,Financial,REITS-Diversified,67.761
+HMP/U US,Howard Midstream Partners LP,200,-23.1,3.9,,0,0,,0, ,N.A.,,, ,,Pipelines,Energy,Pipelines,
+LACQU US,Ensysce Biosciences Inc,200,133.5,-153.3,-192.3,20,10,-0.400000006,200,12/1/17,52539T206,-10.7,,"10.00
+ - 10.00
+",Priced Within Range,Biotechnology,"Consumer, Non-cyclical",Medical-Biomedical/Gene,
+GPMT US,Granite Point Mortgage Trust Inc,195,-26.8,-106.2,-8.3,43.2308,19.5,-2.56410265,843.001,6/23/17,38741L107,0.1,2.93E+07,"20.00
+ - 21.00
+",Priced Below Range,REITS,Financial,REITS-Mortgage,59.9991
+2177859D US,Biohaven Pharmaceutical Holding Co Ltd,193.545,626.9,-183,-83.2,35.7156,17,2.941176414,607.165,5/4/17,N.A.,-12.8,5.01E+06,"14.00
+ - 16.00
+",Priced Above Range,Biotechnology,"Consumer, Non-cyclical",Medical-Biomedical/Gene,6.99929
+AGS US,PlayAGS Inc,188.6,10.7,13,7.4,35.1663,16,15.625,562.661,1/26/18,72814N104,2.5,3.78E+07,"16.00
+ - 18.00
+",Priced Within Range,Computers,Technology,Computers-Other,91.6389
+NCSM US,NCS Multistage Holdings Inc,185.725,14.1,4,4.3,45.3252,17,17.70588303,770.528,4/28/17,628877201,5,1.91E+06,"15.00
+ - 18.00
+",Priced Within Range,Oil&Gas Services,Energy,Oil-Field Services,75.3415
+NINE US,Nine Energy Service Inc,185.15,-9,-7.4,-10.7,24.2374,23,13.47826099,557.46,1/19/18,65441V101,0.3,1.51E+07,"20.00
+ - 23.00
+",Priced Within Range,Oil&Gas Services,Energy,Oil-Field Services,35.6625
+CBH US,Virtus Convertible & Income 2024 Target Term Fund,182.468,,,,0,10,0,0,6/28/17,92838R105,,1.25E+06,"10.00
+ - 10.00
+",Priced Within Range,Closed-end Funds,Financial,Closed-end Funds,6.82794
+ALTR US,Altair Engineering Inc,179.4,8.6,2.1,1,23.1875,13,40.84615326,301.438,11/1/17,21369103,1.8,4.37E+07,"11.00
+ - 13.00
+",Priced Within Range,Software,Technology,Computer Aided Design,72.396
+950160 KS,Kolon TissueGene Inc,178.706,31,-666.1,-19.3,60.3794,27000,58.14814758,1440.64, ,N.A.,-0.9,28296,"16,000.00
+ - 27,000.00
+",Priced Within Range,Retail,"Consumer, Cyclical",Retail-Drug Store,0.0347089
+CGBD US,Carlyle Secured Lending Inc,174.903,-3.7,38.2,4.6,61.4205,18.5,-2.108108044,1136.28,6/14/17,872280102,2,1.39E+07,"18.50
+ - 19.50
+",Priced Within Range,Investment Companies,Financial,Investment Companies,19.109
+CARG US,Cargurus Inc,172.96,-2.1,2.3,2.4,78.5553,16,72.375,1256.88,10/12/17,141788109,2.4,8.94E+07,"13.00
+ - 15.00
+",Priced Above Range,Internet,Communications,E-Commerce/Services,99.9544
+9966911D US,Cadence BanCorp,172.5,2.7,-22.1,2.5,83.625,20,7.75,1672.5,4/13/17,12739A100,4,,"19.00
+ - 21.00
+",Priced Within Range,Banks,Financial,Commer Banks-Central US,
+APLS US,Apellis Pharmaceuticals Inc,172.495,97,-25.3,-23.6,50.864,14,0.2142857164,712.096,11/9/17,03753U106,-0.7,1.47E+08,"13.00
+ - 15.00
+",Priced Within Range,Biotechnology,"Consumer, Non-cyclical",Medical-Biomedical/Gene,117.114
+JILL US,J Jill Inc,162.912,1,6.4,9.3,43.7479,13,-2.692307711,568.723,3/9/17,46620W201,4.3,1.47E+07,"14.00
+ - 16.00
+",Priced Below Range,Retail,"Consumer, Cyclical",Retail-Apparel/Shoe,96.2233
+AMR US,Alpha Metallurgical Resources,162,-14.8,6.3,7.7,30.3321,0,,0, ,20764106,44.5,1.17E+07,"23.00
+ - 27.00
+",,Coal,Energy,Coal,89.6667
+RDFN US,Redfin Corp,159.236,6.7,-15.8,-15.2,80.9215,15,44.66666794,1213.82,7/28/17,75737F108,-0.2,8.26E+07,"12.00
+ - 14.00
+",Priced Above Range,Real Estate,Financial,Real Estate Mgmnt/Servic,65.3519
+SEND US,SendGrid Inc,150.88,39.9,-5.5,-3.4,0,16,12.5,0,11/15/17,816883102,1.4,31190,"13.50
+ - 15.50
+",Priced Above Range,Software,Technology,Computer Software,0.0654438
+LBC US,Luther Burbank Corp,150.204,,44.8,0.4,55.9725,10.75,9.302325249,601.704,12/8/17,550550107,1.6,2.48E+07,"10.50
+ - 12.50
+",Priced Within Range,Banks,Financial,Commer Banks-Western US,48.5721
+1638762D US,ConvergeOne Holdings Inc,150,,,2.5,15.555,10,0.200000003,155.55,4/7/17,34985B202,-0.1,,"10.00
+ - 10.00
+",Priced Within Range,Computers,Technology,Computer Services,
+ODTC US,Odonate Inc,150,,,-66.9,26.8904,24,-4.166666508,645.37,12/7/17,676079403,-275402,,"24.00
+ - 27.00
+",Priced Within Range,Pharmaceuticals,"Consumer, Non-cyclical",Medical-Drugs,
+DCF US,BNY Mellon Alcentra Global Credit Income 2024 Target Term Fund Inc,149.512,,,,0,10,-0.400000006,0,10/27/17,05588N108,,2.04E+06,"10.00
+ - 10.00
+",Priced Within Range,Closed-end Funds,Financial,Closed-end Funds,13.5992
+ARMO US,ARMO BioSciences Inc,147.2,,,,30.4051,17,74.94117737,516.887,1/26/18,04225U104,-30,,"14.00
+ - 16.00
+",Priced Above Range,Biotechnology,"Consumer, Non-cyclical",Medical-Biomedical/Gene,
+OMP US,Oasis Midstream Partners LP,146.625,-15.2,6.6,13.6,14.875,17,-1.470588207,252.875,9/21/17,67420T206,10.6,,"19.00
+ - 21.00
+",Priced Below Range,Pipelines,Energy,Pipelines,
+AYX US,Alteryx Inc,144.9,13.4,-18.4,-10.3,10.35,14,10.71428585,144.9,3/24/17,02156B103,0.4,1.81E+07,"12.00
+ - 14.00
+",Priced Within Range,Software,Technology,Enterprise Software/Serv,28.1656
+AKCA US,Akcea Therapeutics Inc,143.75,653.1,8.3,-8.6,66.5417,8,18.5,532.334,7/14/17,00972L107,2.4,,"12.00
+ - 14.00
+",Priced Below Range,Pharmaceuticals,"Consumer, Non-cyclical",Medical-Drugs,
+CNACU US,DermTech Inc,143.75,5.3,-659.5,-64,18.005,10,0.1000000015,180.05,6/20/17,N.A.,-2.3,5.48E+06,"10.00
+ - 10.00
+",Priced Within Range,Healthcare-Products,"Consumer, Non-cyclical",Diagnostic Kits,102.513
+SLDB US,Solid Biosciences Inc,143.75,,,-70.5,35.3229,16,41.375,565.166,1/26/18,8.34E+208,-2.4,6.09E+07,"18.00
+ - 19.00
+",Priced Below Range,Biotechnology,"Consumer, Non-cyclical",Medical-Biomedical/Gene,78.597
+WTTR US,Select Water Solutions Inc,140.07,-8.4,2.1,2.3,14.083,14,0.1428571492,197.162,4/21/17,81617J301,2.3,1.03E+08,"15.00
+ - 18.00
+",Priced Below Range,Oil&Gas Services,Energy,Oil-Field Services,99.88
+DCPH US,Deciphera Pharmaceuticals Inc,138.831,21.8,-119.3,-39.2,32.5917,17,3.823529482,554.059,9/28/17,24344T101,-1.7,4.29E+07,"15.00
+ - 17.00
+",Priced Within Range,Biotechnology,"Consumer, Non-cyclical",Medical-Biomedical/Gene,49.6253
+1913362D US,Allied Gaming & Entertainment,138,20.5,-46.9,-9.5,0,10,1.5,0,10/5/17,09216T206,-0.2,1.31E+06,"10.00
+ - 10.00
+",Priced Within Range,Entertainment,"Consumer, Cyclical",Resorts/Theme Parks,3.32964
+OPTN US,Optinose Inc,138,10.2,-27.5,-18.2,37.7613,16,18.75,604.181,10/13/17,68404V209,-4.4,8.82E+06,"15.00
+ - 17.00
+",Priced Within Range,Pharmaceuticals,"Consumer, Non-cyclical",Medical-Drugs,87.0459
+SFIX US,Stitch Fix Inc,138,-18.3,-9.6,-13.9,9.2,15,1,138,11/17/17,860897107,0.1,1.03E+08,"15.00
+ - 16.00
+",Priced Within Range,Internet,Communications,E-Commerce/Products,91.8089
+RYTM US,Rhythm Pharmaceuticals Inc,137.827,68,-200.2,-71.8,26.7482,17,76.47058868,454.719,10/5/17,76243J105,-1.8,6.78E+07,"14.00
+ - 16.00
+",Priced Above Range,Pharmaceuticals,"Consumer, Non-cyclical",Medical-Drugs,107.174
+VYNE US,VYNE Therapeutics Inc,136.85,18.1,-7950.9,-48.4,22.978,17,68.88235474,390.626,1/25/18,92941V308,-0.8,7.84E+06,"16.00
+ - 17.00
+",Priced Within Range,Biotechnology,"Consumer, Non-cyclical",Medical-Biomedical/Gene,51.5293
+WHWK US,Whitehawk Therapeutics Inc,136.835,6.6,-245.1,-62.8,27.0496,0,,0,8/7/17,00032Q104,-2.2,2.57E+07,"5.00
+ - 5.00
+",,Biotechnology,"Consumer, Non-cyclical",Medical-Biomedical/Gene,54.9158
+FSCT US,Forescout Technologies Inc,133.584,13.1,-35.1,-38.2,37.8058,22,15.909091,831.728,10/27/17,34553D101,-0.4,,"20.00
+ - 22.00
+",Priced Within Range,Computers,Technology,Computer Data Security,
+YEXT US,Yext Inc,132.825,4.1,-6.6,-5,87.0645,11,21.90909004,957.71,4/13/17,98585N106,0.4,9.91E+07,"8.00
+ - 10.00
+",Priced Above Range,Software,Technology,Computer Software,78.3596
+1553005D US,Hoverink Biotechnologies Inc,131,,,,38.772,0,,0, ,N.A.,-8.02E-05,,"20.00
+ - 20.00
+",,Biotechnology,"Consumer, Non-cyclical",Medical-Biomedical/Gene,
+JEMD US,Nuveen Emerging Markets Debt 2022 Target Term Fund,130,,,,0,10,0,0,9/27/17,67077P101,,965095,"10.00
+ - 10.00
+",Priced Within Range,Closed-end Funds,Financial,Closed-end Funds,6.82824
+FNKO US,Funko Inc,125,-4.2,-1.4,-1.9,23.3377,12,-41.08333206,280.052,11/2/17,361008105,2.3,5.46E+07,"14.00
+ - 16.00
+",Priced Below Range,Toys/Games/Hobbies,"Consumer, Cyclical",Toys,101.293
+GPAQU US,Gordon Pointe Acquisition Corp,125,,,0.6,12.5,10,0,125,1/25/18,382788206,-0.4,4.05E+06,"10.00
+ - 10.00
+",Priced Within Range,Holding Companies-Divers,Diversified,Specified Purpose Acquis,67.445
+MCB US,Metropolitan Bank Holding Corp,124.775,22,24,0.9,8.198,35,6.314285755,286.93,11/8/17,591774104,13.2,1.07E+07,"31.00
+ - 34.00
+",Priced Above Range,Banks,Financial,Commer Banks-Eastern US,96.9916
+BY US,Byline Bancorp Inc,124.545,16.6,29.6,1.3,29.2469,19,5.526315689,555.691,6/30/17,124411109,4,2.33E+07,"19.00
+ - 21.00
+",Priced Within Range,Banks,Financial,Commer Banks-Central US,52.254
+SEI US,Solaris Energy Infrastructure,121.2,6.8,5,,10.1,12,-3.75,121.2,5/12/17,83418M103,2,3.64E+07,"15.00
+ - 18.00
+",Priced Below Range,Oil&Gas Services,Energy,Oil-Field Services,94.6232
+GTHX US,G1 Therapeutics Inc,116.724,60.8,-58.1,-36.3,28.1954,15,0,422.931,5/17/17,3621LQ109,-0.7,9.63E+06,"15.00
+ - 17.00
+",Priced Within Range,Pharmaceuticals,"Consumer, Non-cyclical",Therapeutics,18.2493
+MBIN US,Merchants Bancorp/IN,115,21.6,47.7,1.7,28.6852,16,5,458.963,10/27/17,58844R108,-18.6,1.53E+07,"17.00
+ - 19.00
+",Priced Below Range,Banks,Financial,Commer Banks-Central US,33.3793
+KBLMU US,180 Life Sciences Corp,115,,,-68.4,11.95,10,0,119.5,6/2/17,48242A203,-1.6,,"10.00
+ - 10.00
+",Priced Within Range,Biotechnology,"Consumer, Non-cyclical",Medical-Biomedical/Gene,
+PETQ US,PetIQ Inc,115,19.5,0.1,1.4,12.6393,16,45.75,202.229,7/21/17,71639T106,2.1,6.57E+06,"14.00
+ - 16.00
+",Priced Within Range,Pharmaceuticals,"Consumer, Non-cyclical",Medical-Whsle Drug Dist,22.1341
+CUROQ US,Curo Group Holdings Corp,107.334,-27.4,-58.8,-11.6,45.5614,14,1.428571463,637.86,12/7/17,23131L107,7,9.39E+06,"14.00
+ - 16.00
+",Priced Within Range,Diversified Finan Serv,Financial,Finance-Consumer Loans,22.74
+FSPR US,Four Springs Capital Trust,106.4,16.2,-3.1,,10.2641,0,,0, ,35104D102,4.7,,"17.00
+ - 19.00
+",,REITS,Financial,REITS-Diversified,
+CSAu CN,Ayr Wellness Inc,105.887,0.000647068,-77.5,-26.3,0,10,-0.200000003,0, ,13766G200,0.0869063,, ,,Household Products/Wares,"Consumer, Non-cyclical",Consumer Products-Misc,
+BXG US,Bluegreen Vacations Corp,104.628,-29.6,1.5,0.6,74.7345,14,-7.142857075,1046.28,11/17/17,09629F108,1,6.73E+07,"16.00
+ - 18.00
+",Priced Below Range,Lodging,"Consumer, Cyclical",Hotels&Motels,92.7939
+KALA US,KALA BIO Inc,103.5,,,-69.1,24.1834,15,23.26666641,362.751,7/20/17,483119202,-7.7,3.94E+06,"14.00
+ - 16.00
+",Priced Within Range,Pharmaceuticals,"Consumer, Non-cyclical",Medical-Drugs,60.9888
+SCPH US,scPharmaceuticals Inc,102.13,167.2,-234.3,-84.3,18.5052,14,0.7142857313,259.073,11/17/17,810648105,-1.5,4.95E+07,"14.00
+ - 16.00
+",Priced Within Range,Pharmaceuticals,"Consumer, Non-cyclical",Medical-Drugs,98.5083
+LBM US,US LBM Holdings Inc,100,36.6,-1.7,-2.7,0,0,,0,12/18/20,90353N103,0.2,, ,,Retail,"Consumer, Cyclical",Retail-Building Products,
+1900741D US,Dole Food Co Inc,100,-2.9,-0.5,-1.6,0,0,,0, ,N.A.,,, ,,Food,"Consumer, Non-cyclical",Food-Misc/Diversified,
+PSND US,Preferred Sands Inc,100,,,,0,0,,0, ,N.A.,,, ,,Mining,Basic Materials,Quarrying,
+2553274D US,Tapstone Energy Inc,100,,,,0,0,,0, ,N.A.,,, ,,Oil&Gas,Energy,Oil Comp-Explor&Prodtn,
+1074608D US,Solaris Oilfield Infrastructure LLC,100,,,,0,0,,0, ,N.A.,,, ,,Oil&Gas Services,Energy,Oil-Field Services,
+ULCC US,Frontier Group Holdings Inc,100,5.1,2.2,1.5,0,0,,0, ,35909R108,-0.3,1.52E+08, ,,Airlines,"Consumer, Cyclical",Airlines,66.7828
+1842128D US,Advantage Solutions Inc/Texas,100,10.8,1.5,,0,0,,0,9/8/20,N.A.,1.64,, ,,Advertising,Communications,Advertising Agencies,
+GPMP US,GPM Petroleum LP,100,-48.5,2.4,,0,0,,0, ,N.A.,,, ,,Oil&Gas,Energy,Oil Refining&Marketing,
+1536387D US,Loton Corp,100,,-6333.2,-285.8,108.584,0,,0, ,54567A109,-0.0320009,, ,,Internet,Communications,Internet Content-Info/Ne,
+1894046D US,Torrid Intermediate LLC,100,45.2,-4.5,,0,0,,0, ,N.A.,58955,, ,,Apparel,"Consumer, Cyclical",Apparel Manufacturers,
+BJS US,BJ Services Inc,100,,-6.1,,0,0,,0, ,N.A.,-45.1,, ,,Oil&Gas Services,Energy,Oil-Field Services,
+ACET US,Adicet Bio Inc,97.7505,,,-54.7,28.0463,15,12.53333378,420.695,1/26/18,7002108,-1,5.39E+07,"14.00
+ - 16.00
+",Priced Within Range,Biotechnology,"Consumer, Non-cyclical",Medical-Biomedical/Gene,65.1469
+FBRX US,Forte Biosciences Inc,97.75,,,-70.5,19.7768,10,24.5,197.768,4/13/17,34962G208,-10.5,4.59E+06,"10.00
+ - 12.00
+",Priced Within Range,Biotechnology,"Consumer, Non-cyclical",Medical-Biomedical/Gene,69.7139
+BOC US,Boston Omaha Corp,97.0495,12.4,-1.1,-0.1,13.3072,13,1.538461566,172.994,6/16/17,101044105,0.6,2.24E+07,"12.00
+ - 14.00
+",Priced Within Range,Advertising,Communications,Advertising Sales,72.406
+QES US,Quintana Energy Services Inc,96.321,,-7.4,-30.4,33.4128,10,-10,334.128,2/9/18,74875T103,1,3.29E+06,"12.00
+ - 15.00
+",Priced Below Range,Oil&Gas,Energy,Oil&Gas Drilling,9.74182
+KRP US,Kimbell Royalty Partners LP,90,5.1,3.9,1,16.3327,18,14.66666698,293.989,2/3/17,49435R102,3.2,3.30E+07,"19.00
+ - 21.00
+",Priced Below Range,Oil&Gas,Energy,Oil-US Royalty Trusts,35.6468
+CASSQ US,Casa Systems Inc,89.7,-28.6,-27.6,-30.6,80.9975,13,10.76923084,1052.97,12/15/17,14713L102,-0.0942618,4.78E+07,"13.00
+ - 13.00
+",Priced Within Range,Telecommunications,Communications,Wireless Equipment,48.1797
+RBB US,RBB Bancorp,86.25,-1.7,23.2,0.6,15.6856,23,1.521739125,360.769,7/26/17,74930B105,3.2,8.86E+06,"22.00
+ - 24.00
+",Priced Within Range,Banks,Financial,Commer Banks-Western US,49.9407
+APPN US,Appian Corp,86.25,13.1,-14.9,-14.7,7.1875,12,25.08333397,704.255,5/25/17,03782L101,0.0942347,3.60E+07,"11.00
+ - 13.00
+",Priced Within Range,Software,Technology,Enterprise Software/Serv,83.7756
+RNGR US,Ranger Energy Services Inc,85.0005,-10.2,3.2,4.8,8.4132,14.5,-1.931034446,121.991,8/11/17,75282U104,3.7,2.21E+07,"16.00
+ - 18.00
+",Priced Below Range,Oil&Gas Services,Energy,Oil-Field Services,96.0267
+SPRO US,Spero Therapeutics Inc,83.601,-53.7,-142.9,-46.8,14.3692,14,-17.8571434,201.169,11/2/17,84833T103,-0.4,1.37E+07,"14.00
+ - 16.00
+",Priced Within Range,Pharmaceuticals,"Consumer, Non-cyclical",Medical-Drugs,24.5678
+BAND US,Bandwidth Inc,83.26,24.5,-0.8,-0.6,4.0348,20,5.949999809,80.696,11/10/17,05988J103,3,2.30E+07,"20.00
+ - 22.00
+",Priced Within Range,Software,Technology,Computer Software,82.8204
+9990825D US,PDL Community Bancorp,83.08,,,,0,10,49,0,10/2/17,69290X101,,2.39E+06,"10.00
+ - 10.00
+",Priced Within Range,Banks,Financial,Commer Banks-Eastern US,13.7944
+IHTA US,Invesco High Income 2024 Target Term Fund,81,,,,0,10,0,0,11/30/17,46136K105,,1.63E+06,"10.00
+ - 10.00
+",Priced Within Range,Closed-end Funds,Financial,Closed-end Funds,18.5274
+ATNXQ US,Athenex Inc,75.9,7.8,-100.5,-43.8,56.944,11,14.18181801,626.384,6/14/17,04685N202,-9.8,599356,"11.00
+ - 13.00
+",Priced Within Range,Pharmaceuticals,"Consumer, Non-cyclical",Medical-Drugs,6.91841
+FFI LN,FFI Holdings PLC,75.3121,51.7,2.4,5,157.041,150,5,298.385, ,N.A.,-0.0388551,6.75E+07, ,,Entertainment,"Consumer, Cyclical",Motion Pictures&Services,42.781
+DOVA US,Dova Pharmaceuticals Inc,75.055,,-698,-70.8,24.9902,17,16.52941132,424.833,6/29/17,25985T102,-1.9,,"15.00
+ - 17.00
+",Priced Within Range,Pharmaceuticals,"Consumer, Non-cyclical",Medical-Drugs,
+OVID US,Ovid therapeutics Inc,75,44.5,-4670.1,-22.4,24.6019,15,-18.33333397,369.029,5/5/17,690469101,-0.7,3.98E+07,"15.00
+ - 17.00
+",Priced Within Range,Biotechnology,"Consumer, Non-cyclical",Medical-Biomedical/Gene,56.0532
+MRSN US,Mersana Therapeutics Inc,75,9.8,-170.8,-37.3,22.6456,15,-6.666666508,339.684,6/28/17,59045L106,-0.6,1.04E+08,"14.00
+ - 16.00
+",Priced Within Range,Biotechnology,"Consumer, Non-cyclical",Medical-Biomedical/Gene,83.2095
+WGRD US,WatchGuard Inc,75,32.3,11.6,34.7,0,0,,0, ,N.A.,,, ,,Commercial Services,"Consumer, Non-cyclical",Protection-Safety,
+SNNAQ US,Sienna Biopharmaceuticals Inc,74.7495,,,-57,20.5383,15,28.33333397,308.075,7/27/17,82622H108,-3,4.14E+06,"14.00
+ - 16.00
+",Priced Within Range,Biotechnology,"Consumer, Non-cyclical",Medical-Biomedical/Gene,13.4076
+ALNAQ US,Allena Pharmaceuticals Inc,74.6662,,,-180,20.6218,14,-28.7142849,288.705,11/2/17,18119107,-0.6,93683,"14.00
+ - 16.00
+",Priced Within Range,Biotechnology,"Consumer, Non-cyclical",Medical-Biomedical/Gene,0.076737
+QTRX US,Quanterix Corp,73.7475,12.3,-28,-9.4,21.8209,15,16.46666718,327.313,12/7/17,74766Q101,-0.9,4.30E+07,"14.00
+ - 16.00
+",Priced Within Range,Healthcare-Products,"Consumer, Non-cyclical",Diagnostic Equipment,110.849
+XFLT US,XAI Octagon Floating Rate Alternative Income Trust,72.5,,,,0,10,0.8999999762,0,9/27/17,98400T106,,7.19E+06,"10.00
+ - 10.00
+",Priced Within Range,Closed-end Funds,Financial,Closed-end Funds,9.49458
+STEL US,Stellar Bancorp Inc,71.76,1.7,26.6,1,24.8231,26,10.42307663,645.401,11/8/17,858927106,2.4,3.23E+07,"24.00
+ - 26.00
+",Priced Within Range,Banks,Financial,Commer Banks-Central US,61.7158
+AQ US,Aquantia Corp,70.5663,16.8,-8,-19.5,33.3438,9,5.666666508,300.094,11/3/17,03842Q108,0.2,5.11E+06,"10.00
+ - 12.00
+",Priced Below Range,Semiconductors,Technology,Semiconductor Equipment,14.1472
+ASA NO,Atlantic Sapphire ASA,70.2421,-26.1,-955.7,-39.5,4.629,280,7.142857075,153.59, ,N.A.,-59.9,8.61E+06, ,,Food,"Consumer, Non-cyclical",Fisheries,24.0069
+SQFT US,Presidio Property Trust Inc,69,7.3,-135.4,-16,0,0,,0,10/7/20,74102L303,-0.0587781,2.58E+06, ,,REITS,Financial,REITS-Diversified,18.2246
+BRPAU US,NRX Pharmaceuticals Inc,69,,,-458.2,7.15,10,0.1000000015,71.5,11/20/17,89482202,-1,,"10.00
+ - 10.00
+",Priced Within Range,Biotechnology,"Consumer, Non-cyclical",Medical-Biomedical/Gene,
+TNTRQ US,Tintri Inc,67.004,0.6,-125.2,-174,31.3881,7,3.857142925,219.717,6/30/17,88770Q105,-4.6,32300,"7.00
+ - 8.00
+",Priced Within Range,Software,Technology,Computer Software,0.0961617
+URGN US,UroGen Pharma Ltd,66.8772,9.2,-140.3,-54.6,12.6435,13,7.538461685,164.365,5/4/17,N.A.,-2.2,4.63E+07,"12.00
+ - 14.00
+",Priced Within Range,Biotechnology,"Consumer, Non-cyclical",Medical-Biomedical/Gene,100.37
+CUE US,Cue Biopharma Inc,66.1553,69.1,-437.9,-86.8,19.3073,7.5,55.06666565,144.805,1/2/18,22978P106,-0.6,1.68E+07,"7.50
+ - 7.50
+",Priced Within Range,Biotechnology,"Consumer, Non-cyclical",Medical-Biomedical/Gene,22.2666
+CBUS US,Cibus Inc,64.4,134.5,-5898.3,-56.2,27.65,8,40.625,221.2,7/20/17,17166A101,-2.5,9.80E+06,"8.00
+ - 10.00
+",Priced Within Range,Biotechnology,"Consumer, Non-cyclical",Agricultural Biotech,29.8183
+PENG US,Penguin Solutions Inc,58.3,-18.7,-4.4,-0.3,21.5023,11,22.27272797,227.78,5/24/17,N.A.,1.4,6.39E+07,"13.00
+ - 15.00
+",Priced Below Range,Semiconductors,Technology,Electronic Compo-Semicon,119.109
+BOKU LN,Boku Inc,58.0128,20,3.8,0.9,213.487,59,24.57627106,165.999, ,N.A.,0.1,2.60E+08, ,,Software,Technology,Applications Software,87.7151
+MTECU US,MTech Acquisition Corp,57.5,,,0.1,5.975,10,0.6999999881,59.75,1/30/18,55378W206,-0.3,,"10.00
+ - 10.00
+",Priced Within Range,Software,Technology,Computer Software,
+RNTX US,Rein Therapeutics Inc,56.25,,,-74.7,14.7102,15,-28,220.653,6/29/17,00887A204,-1.2,7.91E+06,"15.00
+ - 17.00
+",Priced Within Range,Biotechnology,"Consumer, Non-cyclical",Medical-Biomedical/Gene,35.9545
+9991020D US,Bank of Princeton/The,55.2,,,,0,32,19.53125,0,8/1/17,64520109,,11021, ,,Banks,Financial,Commer Banks-Eastern US,0.176514
+1552440D CN,AQTWM Inc,54.2585,,,,19.5383,0,,0, ,N.A.,,,"10.00
+ - 11.00
+",,Pipelines,Energy,Pipelines,
+GNTY US,Guaranty Bancshares Inc/TX,54,2.7,26.5,1,10.7539,27,11.48148155,290.355,5/9/17,400764106,4.1,4.38E+06,"26.00
+ - 28.00
+",Priced Within Range,Banks,Financial,Commer Banks-Central US,38.5631
+VLRXQ US,Valeritas Holdings Inc,52.5,30.3,-173.9,-114.6,6.8896,10,-28.79999924,68.896,3/23/17,91914N301,-26.4,11996,"9.00
+ - 11.00
+",Priced Within Range,Healthcare-Products,"Consumer, Non-cyclical",Medical Products,0.143984
+1700707D US,Insurance Income Strategies Ltd,52,,,,5.2,0,,0, ,N.A.,,,"10.00
+ - 10.00
+",,Insurance,Financial,Reinsurance,
+2196165D AU,Credible Labs Inc,50.783,33.5,-49.4,-21.9,253.053,1.21,9.09090519,232.126, ,N.A.,-0.9,4.63E+06, ,,Internet,Communications,E-Commerce/Services,1.83034
+1993569D US,Royalty Flow Inc,50.0003,,,,0,0,,0, ,N.A.,,,"7.50
+ - 7.50
+",,Investment Companies,Financial,Investment Companies,
+LFIN US,Longfin Corp,50,,,,0,0,,0,12/13/17,54304F106,,4.89E+06,"5.00
+ - 5.00
+",,Diversified Finan Serv,Financial,Finance-Commercial,11.0988
+OCCI US,OFS Credit Co Inc,50,,,,2.505,20,-6.25,50.1,10/5/18,67111Q107,,2.00E+06,"20.00
+ - 20.00
+",Priced Within Range,Closed-end Funds,Financial,Closed-end Funds,12.4589
+IAMXU US,Simplicity Esports and Gaming Co,50,128.9,-493.9,-156.8,5.2545,10,0.6000000238,52.545,8/17/17,45074Q207,,400000,"10.00
+ - 10.00
+",Priced Within Range,Software,Technology,Entertainment Software,5.8707
+TRMT US,Tremont Mortgage Trust,50,47.5,71.1,2.4,3.1001,20,-13.55000019,62.002,9/14/17,894789106,0.7,79,"20.00
+ - 20.00
+",Priced Within Range,REITS,Financial,REITS-Diversified,0.000950397
+DOTAU US,Draper Oakwood Technology Acquisition Inc,50,,,,5.25,10,1.299999952,52.5,9/15/17,26146L202,,525736,"10.00
+ - 10.00
+",Priced Within Range,Internet,Communications,E-Commerce/Products,10.014
+XFOR US,X4 Pharmaceuticals Inc,46,,-1464.6,-25.5,14.2944,10,40.29999924,142.944,11/16/17,98420X103,-0.6,1.26E+08,"10.00
+ - 10.00
+",Priced Within Range,Biotechnology,"Consumer, Non-cyclical",Medical-Biomedical/Gene,72.4554
+KRYS US,Krystal Biotech Inc,45.54,473,30.6,9.5,10.2372,10,6.400000095,102.372,9/20/17,501147102,4.3,3.06E+07,"9.00
+ - 11.00
+",Priced Within Range,Biotechnology,"Consumer, Non-cyclical",Medical-Biomedical/Gene,105.833
+YOGAQ US,YogaWorks Inc,40.15,9.3,-59,-63,16.2091,5.5,-11.81818199,89.15,8/11/17,986005106,-0.3,93500,"5.50
+ - 6.50
+",Priced Within Range,Leisure Time,"Consumer, Cyclical",Recreational Centers,0.547938
+CCGN US,Consumer Capital Group Inc,40,3833.3,-104.2,-37.4,0,0,,0, ,21050C108,-0.0752837,, ,,Diversified Finan Serv,Financial,Finance-Consumer Loans,
+MRBK US,Meridian Corp,39.9993,17,14.5,0.7,0,17,7.352941036,0,11/7/17,58958P104,0.8,6.82E+06,"17.00
+ - 19.00
+",Priced Within Range,Banks,Financial,Commer Banks-Eastern US,60.451
+ESQ US,Esquire Financial Holdings Inc,38.059,13.6,31.5,2.4,7.2116,14,8.928571701,100.962,6/27/17,29667J101,5.4,5.77E+06,"14.00
+ - 16.00
+",Priced Within Range,Banks,Financial,Commer Banks-Eastern US,68.4655
+ATXI US,Avenue Therapeutics Inc,37.95,,,-515.3,9.6665,6,37.5,57.999,6/27/17,05360L403,-6.9,317947,"5.00
+ - 7.00
+",Priced Within Range,Pharmaceuticals,"Consumer, Non-cyclical",Medical-Drugs,10.0945
+VERI US,Veritone Inc,37.5,-7.3,-40.3,-12.9,13.8796,15,-12.86666679,208.194,5/12/17,92347M100,-0.6,1.56E+07,"14.00
+ - 16.00
+",Priced Within Range,Software,Technology,Computer Software,34.8174
+SSTI US,SoundThinking Inc,35.42,10,-9,-6.6,9.5329,11,30.72727203,104.862,6/7/17,82536T107,1.7,1.01E+07,"10.00
+ - 12.00
+",Priced Within Range,Commercial Services,"Consumer, Non-cyclical",Protection-Safety,79.7553
+1838443D US,Aspen Digital Inc,33.5,,-5.5,,3.4185,0,,0, ,04531P104,,,"20.00
+ - 20.00
+",,REITS,Financial,REITS-Hotels,
+1578033D US,Pogotec Inc,32.0001,,,-825.7,10.733,0,,118.066, ,N.A.,-2,,"11.00
+ - 11.00
+",,Electronics,Industrial,Electronic Compo-Misc,
+AKOM US,Aerkomm Inc,31.5341,,,,42.0483,8.5,-47.05882263,357.411,7/11/18,00774B208,-1.1,2.24E+06,"8.50
+ - 8.50
+",Priced Within Range,Telecommunications,Communications,Cellular Telecom,12.1913
+ASV US,ASV Holdings Inc,30.59,3.4,-25.1,-33.7,10.07,7,12.14285755,70.49,5/12/17,00215L104,-0.0864876,,"8.00
+ - 10.00
+",Priced Below Range,Machinery-Constr&Mining,Industrial,Machinery-Constr&Mining,
+CSSEQ US,Chicken Soup For The Soul Entertainment Inc,30,16.4,-211.4,-94.8,0,12,-22.91666603,0,8/18/17,16842Q100,-0.8,1.56E+06, ,,Internet,Communications,Internet Content-Info/Ne,6.28273
+8989898D US,FFBW Inc/Wisconsin,29.506,,,,0,10,15.30000019,0,10/11/17,30258M107,,,"10.00
+ - 10.00
+",Priced Within Range,Banks,Financial,Commer Banks-Central US,
+AKU/U CN,Akumin Inc,28.8033,78,-20.9,-13,0,3.5,35.9163475,0, ,01021F109,0.7,, ,,Healthcare-Services,"Consumer, Non-cyclical",MRI/Medical Diag Imaging,
+VERO US,Venus Concept Inc,28.7791,-15,-72.4,-58,29.1173,7,41.7142868,203.821,10/12/17,92332W303,-184.4,1.03E+06,"7.00
+ - 9.00
+",Priced Within Range,Healthcare-Products,"Consumer, Non-cyclical",Medical Products,72.1259
+EYEN US,Eyenovia Inc,27.3,1414,-86888.5,-307,9.9367,10,-0.8000000119,99.367,1/25/18,3.02E+207,-36.1,184187,"10.00
+ - 12.00
+",Priced Within Range,Pharmaceuticals,"Consumer, Non-cyclical",Medical-Drugs,6.50714
+CELC US,Celcuity Inc,26.22,,,-51.2,10.0821,9.5,50.42105103,95.7799,9/20/17,15102K100,-2.1,3.60E+07,"8.00
+ - 10.00
+",Priced Within Range,Biotechnology,"Consumer, Non-cyclical",Medical-Biomedical/Gene,95.1423
+VTI AU,Visioneering Technologies Inc,25.6633,19,-39.8,-48.7,198.362,0.42,5.952384472,64.1419, ,N.A.,-0.1,3.69E+07, ,,Healthcare-Products,"Consumer, Non-cyclical",Optical Supplies,67.1311
+FAT US,FAT Brands Inc,24,23.3,-32,-14.1,0,12,-5.666666508,0,10/23/17,30258N105,-3.3,1.06E+07,"12.00
+ - 12.00
+",Priced Within Range,Retail,"Consumer, Cyclical",Retail-Restaurants,64.0662
+LVO US,LiveOne Inc,21.8408,18.9,-10.1,-16.7,50.1109,4,0,200.444,12/22/17,53814X102,0.078158,2.64E+07,"12.00
+ - 14.00
+",Priced Below Range,Internet,Communications,Internet Content-Info/Ne,27.469
+FRGT US,Freight Technologies Inc,20.231,-19.5,-40.8,-71.2,23,10,23,230,8/8/17,N.A.,-4.6,75961,"10.00
+ - 10.00
+",Priced Within Range,Software,Technology,Applications Software,3.35358
+OSS US,One Stop Systems Inc,19.5,-10.1,-24.9,-32,11.5189,5,-2.400000095,57.5945,2/1/18,68247W109,-0.00515897,7.83E+06,"6.00
+ - 8.00
+",Priced Below Range,Computers,Technology,Computers,36.3394
+FUVV US,Arcimoto Inc,19.5,49.5,-958.8,-85.9,0,6.5,-11.53846169,0,9/21/17,39587209,-1,1.82E+06,"6.50
+ - 6.50
+",Priced Within Range,Auto Manufacturers,"Consumer, Cyclical",Auto-Cars/Light Trucks,19.2079
+PRGBQ US,Protea Biosciences Group Inc,17.25,31.4,-639.5,-742.7,0,0,,0, ,74365B208,-1.5,,"4.00
+ - 6.00
+",,Healthcare-Products,"Consumer, Non-cyclical",Diagnostic Kits,
+RMBL US,RumbleON Inc,16.005,-11.5,-6.5,-9.3,11.0185,5.5,-7.454545498,60.6018,10/19/17,781386305,2.8,1.85E+07, ,,Internet,Communications,E-Commerce/Services,48.8679
+IPIC US,iPic Entertainment Inc,15.1404,2.7,-15.6,-16.4,0,18.5,-18.16216278,0,2/1/18,46263D106,-3.6,,"18.50
+ - 18.50
+",Priced Within Range,Entertainment,"Consumer, Cyclical",Resorts/Theme Parks,
+451012Z US,Heritage Bank of St Tammany,14.375,,,,0,0,,0, ,N.A.,,,"10.00
+ - 10.00
+",,Savings&Loans,Financial,S&L/Thrifts-Southern US,
+BELL LN,Belluscura PLC,13.192,-40.9,-2243.4,-83.3,0,0,,0, ,N.A.,-0.0700299,7.31E+07, ,,Healthcare-Products,"Consumer, Non-cyclical",Medical Products,18.2143
+ACMR US,ACM Research Inc,12.5048,40.2,13.2,6.1,12.9355,5.6,8.035716057,72.4388,11/3/17,00108J109,2.4,4.24E+07,"7.50
+ - 9.50
+",Priced Below Range,Semiconductors,Technology,Semiconductor Equipment,72.9853
+EVTV US,Envirotech Vehicles Inc,12.5,-34.6,-473.1,-31.9,0,5,45,0,6/15/17,29414V209,-0.2,1.17E+06,"5.00
+ - 5.00
+",Priced Within Range,Auto Manufacturers,"Consumer, Cyclical",Auto-Med&Heavy Duty Trks,5.06201
+YCBD US,cbdMD Inc,12,-19.3,-18.9,-20.1,7.4923,6,-7.5,44.9538,11/17/17,12482W309,-0.081806,197271,"6.00
+ - 6.00
+",Priced Within Range,Household Products/Wares,"Consumer, Non-cyclical",Consumer Products-Misc,3.14987
+AURX US,Nuo Therapeutics Inc,11.55,124.3,-170.2,-151.5,6.0707,0,,0, ,67059V209,,135902,"4.50
+ - 5.50
+",,Biotechnology,"Consumer, Non-cyclical",Medical-Biomedical/Gene,0.366074
+6697 JP,Techpoint Inc,10.3156,7.5,27.1,21.3,1.748,650,111.0769196,8.84161, ,N.A.,0.7,388900,"620.00
+ - 650.00
+",Priced Within Range,Semiconductors,Technology,Semiconductor Equipment,2.07833
+SSBP US,SSB Bancorp Inc,10.117,,8.3,0.5,2.2483,10,-5.5,22.483,1/25/18,784670101,0.4,,"10.00
+ - 10.00
+",Priced Within Range,Banks,Financial,Commer Banks-Eastern US,
+1781685D US,NexPoint Multifamily Capital Trust Inc,10,,-38.7,-6.4,0,0,,0, ,N.A.,1.1,, ,,REITS,Financial,REITS-Apartments,
+VIVC US,Vivic Corp,10,,94,8.9,35.5468,0,,0,7/3/18,928534106,-0.00793237,,"1.00
+ - 1.00
+",,Leisure Time,"Consumer, Cyclical",Travel Services,
+JRSH US,Jerash Holdings US Inc,9.5508,-15.1,-1.7,-4.8,9.969,0,,0, ,47632P101,0.2,550087,"5.00
+ - 6.00
+",,Apparel,"Consumer, Cyclical",Apparel Manufacturers,4.47413
+1502549D US,LBC Bioscience Inc,9.066,,-114.8,,0,0,,0, ,N.A.,-0.000214911,,"0.25
+ - 0.25
+",,Pharmaceuticals,"Consumer, Non-cyclical",Medical-Drugs,
+AMBO US,Ambow Education Holding Ltd,8.7975,2.5,3.2,,4.7309,4.25,34.11764526,20.1063,6/1/18,02322P309,0.00397523,31,"3.50
+ - 4.50
+",Priced Within Range,Commercial Services,"Consumer, Non-cyclical",Schools,0.00118278
+EMMA US,Emmaus Life Sciences Inc,8.7937,-43.7,-38.7,-21.9,4.2141,5.25,-17.52380943,22.124,7/14/17,29137T101,-0.036151,, ,,Biotechnology,"Consumer, Non-cyclical",Medical-Biomedical/Gene,
+NVNO US,enVVeno Medical Corp,8.625,,,-46.6,0,5,4.800000191,0,5/31/18,29415J106,-0.9,5.80E+06,"6.00
+ - 8.00
+",Priced Below Range,Healthcare-Products,"Consumer, Non-cyclical",Medical Products,33.0819
+SGBX US,Safe & Green Holdings Corp,8.625,-69.8,-341.1,-145.8,4.2072,5,-1.600000024,21.036,6/22/17,78418A604,-5,473058,"5.00
+ - 6.00
+",Priced Within Range,Metal Fabricate/Hardware,Industrial,Metal Processors&Fabrica,7.40421
+ABWN US,Airborne Wireless Network,8,,,-1337.7,0,1000,N/A,0,5/24/18,00928L300,-347.7,1.80E+07,"1,000.00
+ - 1,000.00
+",Priced Within Range,Telecommunications,Communications,Cellular Telecom,0.370605
+HGC AU,HyGIeaCare Inc,7.906,,,,87.5,0.4,,27.671, ,N.A.,,, ,,Healthcare-Services,"Consumer, Non-cyclical",Medical Labs&Testing Srv,
+SDOT US,Sadot Group Inc,7.7,-2.3,0.5,2.3,3.195,5,-22.79999924,15.975,2/13/20,627333305,-0.7,686765,"5.00
+ - 5.00
+",Priced Within Range,Retail,"Consumer, Cyclical",Retail-Restaurants,11.7086
+1510291D US,SkyWolf Wind Turbine Corp,7.5,,,,0,0,,0, ,N.A.,-0.00486892,,"3.50
+ - 5.00
+",,Energy-Alternate Sources,Energy,Energy-Alternate Sources,
+1787875D US,Prolung Inc,7.4664,,,-278.9,4.7949,0,,0, ,74348P209,-0.5,,"7.00
+ - 8.00
+",,Healthcare-Products,"Consumer, Non-cyclical",Medical Products,
+ADIL US,Adial Pharmaceuticals Inc,7.32,,,-269.8,6.5382,5,-19,32.691,7/27/18,00688A205,-1.4,707153,"5.00
+ - 5.00
+",Priced Within Range,Biotechnology,"Consumer, Non-cyclical",Medical-Biomedical/Gene,10.7559
+BTBT US,Bit Digital Inc,7.13,140.5,26.2,7.7,14.7825,4,15.5,59.13,3/20/18,N.A.,-0.0925353,7.60E+07,"4.00
+ - 4.50
+",Priced Within Range,Investment Companies,Financial,Investment Companies,41.5802
+CODX US,Co-Diagnostics Inc,7.071,-42.5,-961.3,-47.2,0,6,-3.166666746,0,7/12/17,189763105,-0.9,6.02E+06,"6.35
+ - 6.75
+",Priced Below Range,Healthcare-Products,"Consumer, Non-cyclical",Diagnostic Kits,17.9382
+NXPL US,NextPlat Corp,7,73.4,-21.4,-27.7,0,0,,0, ,68557F209,-0.2,4.48E+06, ,,Telecommunications,Communications,Telecommunication Equip,17.2522
+CTXR US,Citius Pharmaceuticals Inc,6.8001,,,-37.3,6.7057,4.125,-24.84848404,27.661,8/3/17,17322U306,-4.1,735801,"6.23
+ - 6.23
+",Priced Below Range,Pharmaceuticals,"Consumer, Non-cyclical",Medical-Drugs,7.86084
+GNPX US,Genprex Inc,6.4,,,-285.3,13.035,5,-6,65.175,3/29/18,372446203,-4.2,3.45E+06,"5.00
+ - 5.00
+",Priced Within Range,Biotechnology,"Consumer, Non-cyclical",Medical-Biomedical/Gene,14.2854
+ENVB US,Enveric Biosciences Inc,6.0696,,,-259.4,17.3312,4.115,-15.18833065,71.3179,11/17/17,29405E406,-15.3,145225, ,,Biotechnology,"Consumer, Non-cyclical",Medical-Biomedical/Gene,5.87562
+NAOV US,NanoVibronix Inc,6.0001,12,-144.8,-71.9,3.4899,4.9,41.83673096,17.1005,11/2/17,63008J702,-9.3,49448, ,,Healthcare-Products,"Consumer, Non-cyclical",Medical Products,6.5124
+1535325D US,Yappa World Inc,5.6241,,,-16108.4,16.4408,0,,0, ,N.A.,-0.0315638,,"1.00
+ - 1.00
+",,Internet,Communications,Internet Content-Entmnt,
+NXNN US,Nexeon MedSystems Inc,5.3325,120.9,-65.9,-13.3,25.7213,0,,0, ,65342G203,-1.7,,"1.00
+ - 1.00
+",,Healthcare-Products,"Consumer, Non-cyclical",Medical Products,
+1532654D US,Axium Pharmaceuticals Inc,5.1396,,,,95.13,0,,0, ,N.A.,,,"0.10
+ - 0.10
+",,Pharmaceuticals,"Consumer, Non-cyclical",Medical-Drugs,
+HLYK US,HealthLynked Corp,5.1232,-47.4,-203.8,-188.5,73.1286,0,,0, ,42228P102,-0.0124106,7400,"0.20
+ - 0.20
+",,Software,Technology,Medical Information Sys,0.0026246
+MYO US,Myomo Inc,4.9913,69.1,-19,-21.7,0,7.5,-1.333333373,0,6/12/17,62857J201,-0.0871294,1.89E+07, ,,Healthcare-Products,"Consumer, Non-cyclical",Medical Products,54.8678
+WRAP US,Wrap Technologies Inc,4.0001,-26.5,-130.3,-26.9,23.1417,0,,0,5/18/18,98212N107,-0.1,6.32E+06,"1.50
+ - 1.50
+",,Electronics,Industrial,Electronic Secur Devices,12.5129
+1565091D US,Arrestage International Inc,4,,,-1951.2,0,0,,0, ,N.A.,-0.0197175,,"2.00
+ - 2.00
+",,Cosmetics/Personal Care,"Consumer, Non-cyclical",Cosmetics&Toiletries,
+POLX LN,Polarean Imaging PLC,3.9585,-13.7,-1333.9,-49.1,73.4067,15,6.666666508,15.6598, ,N.A.,-0.0416031,1.01E+08, ,,Healthcare-Products,"Consumer, Non-cyclical",Medical Imaging Systems,8.34929
+OIL CN,Permex Petroleum Corp,3.21684,-83.1,-3438,-45.7,48.0724,0.5,20,19.0126, ,71422P303,-3,124421, ,,Oil&Gas,Energy,Oil Comp-Explor&Prodtn,22.5605
+1482802D US,Xplosion Inc,3,,,-5.7,52.4876,0,,0, ,N.A.,-0.000717077,,"1.00
+ - 1.00
+",,Internet,Communications,E-Commerce/Products,
+1499843D US,Father Time Inc,3,,,,13,0,,0, ,N.A.,,,"1.00
+ - 1.00
+",,Software,Technology,Applications Software,
+1523576D US,Emperor Paper Industries Ltd,2.85,,,,0,0,,0, ,N.A.,,,"0.25
+ - 0.25
+",,Environmental Control,Industrial,Recycling,
+1520420D US,Tribus Enterprises Inc,2.7354,491.7,-564.9,-61.5,0,0,,0, ,N.A.,-0.089233,,"0.25
+ - 0.25
+",,Metal Fabricate/Hardware,Industrial,Metal Processors&Fabrica,
+1522646D US,Capax Inc,2.25,,,,25.967,0,,0, ,N.A.,-0.00150274,,"0.15
+ - 0.15
+",,Food,"Consumer, Non-cyclical",Food-Baking,
+1514245D US,A La Carte Charts Inc,1.95,,,,6.7996,0,,0, ,N.A.,,,"2.50
+ - 2.50
+",,Software,Technology,Applications Software,
+QNTA US,Quanta Inc,1.5,-41.8,-1225.5,-630.3,65.447,0.2,900,13.0894,12/27/17,74766N108,-0.01526,,"0.20
+ - 0.20
+",Priced Within Range,Pharmaceuticals,"Consumer, Non-cyclical",Medical-Drugs,
+FGNV US,Forge Innovation Development Corp,1.2346,52.4,-189.8,-14.4,57.771,0,,0,4/30/18,34630L100,-0.00362329,,"0.25
+ - 0.25
+",,Real Estate,Financial,Real Estate Mgmnt/Servic,
+1514737D US,RuRoo Games Inc,1,,,,0,0,,0, ,N.A.,-0.00057355,,"0.20
+ - 0.20
+",,Software,Technology,Entertainment Software,
+1496823D US,THL Credit Senior Loan 2024 Term Fund,1,,,,0,0,,0, ,N.A.,,,"10.00
+ - 10.00
+",,Closed-end Funds,Financial,Closed-end Funds,
+SAVYON US,Savyon Trust Group Inc,1,,,,0,0,,0, ,N.A.,,,"20.00
+ - 20.00
+",,Diversified Finan Serv,Financial,Invest Mgmnt/Advis Serv,
+1246792D US,Entranet Inc,0.8829,,,,29.3465,0,,0, ,N.A.,,,"0.60
+ - 0.60
+",,Computers,Technology,Computer Services,
+WBSR US,Webstar Technology Group Inc,0.6,,,-69151.1,114.9,1,100,114.9,5/4/21,94770C104,-0.000869799,,"1.00
+ - 1.00
+",Priced Within Range,Software,Technology,Applications Software,
+8269627Z US,Cheval Resources Corp,0.5,,,,0,0,,0, ,N.A.,,,"0.01
+ - 0.01
+",,Holding Companies-Divers,Diversified,Specified Purpose Acquis,
+SLT/H CN,Specialty Liquid Transportation Corp,0.40555,,,,7.9,0.1,19.99999809,0.640769, ,84749V101,-0.2,, ,,Transportation,Industrial,Transport-Marine,
+1498572D US,Randolph Acquisitions Inc,0.3672,,,,5.86,0,,0, ,N.A.,,,"0.27
+ - 0.27
+",,Private Equity,Financial,Private Equity,
+1546393D US,Energy Conversion Services Inc,0.3,,,,0,0,,0, ,N.A.,,,"0.10
+ - 0.10
+",,Electric,Utilities,Electric-Generation,
+QRON US,Qrons Inc,0.281,,,-10397.9,12.106,0,,0,6/30/17,74737F101,-0.0044453,,"0.25
+ - 0.25
+",,Biotechnology,"Consumer, Non-cyclical",Medical-Biomedical/Gene,
+NBVA CN,Nubeva Technologies Ltd,0.252573,-13.6,-0.0759091,1,8.3,0.1,170,0.624658, ,67021Y109,-0.000890898,, ,,Software,Technology,Applications Software,
+1542825D US,Evamedia Corp,0.2126,,,,0,0,,0, ,N.A.,,,"0.45
+ - 0.45
+",,Software,Technology,Applications Software,
+1556880D US,Majulah Investment Inc,0.2,,,,22,0,,0, ,N.A.,-0.00063305,,"0.10
+ - 0.10
+",,Real Estate,Financial,Real Estate Mgmnt/Servic,
+PBIT CN,POSaBIT Systems Corp,0.16927,-6.8,-31.5,-96.9,4.25,0.1,70,0.334602, ,737307108,-0.0499514,, ,,Computers,Technology,Computers-Integrated Sys,
+1490850D US,Diverse Development Group Inc,0.1523,,,,7.115,0,,0, ,N.A.,,,"0.15
+ - 0.15
+",,Private Equity,Financial,Private Equity,
+1521345D US,GF Partners Inc,0.15,,,,0,0,,0, ,N.A.,,,"0.02
+ - 0.02
+",,Commercial Services,"Consumer, Non-cyclical",Consulting Services,
+ARGC US,Arion Group Corp,0.1,,-393.5,-78.1,0,0,,0, ,04039R107,-0.0126889,,"0.01
+ - 0.01
+",,Distribution/Wholesale,"Consumer, Cyclical",Distribution/Wholesale,
+MGOM US,Migom Global Corp,0.1,446.4,58.2,41.9,15,0,,0, ,59862G107,1,,"0.01
+ - 0.01
+",,Diversified Finan Serv,Financial,Finance-Invest Bnkr/Brkr,
+DIAH US,Diamond Holdings Inc,0.1,,,-5.6,8,0,,0,5/23/18,25265K102,-0.00274361,,"0.02
+ - 0.02
+",,Mining,Basic Materials,Metal-Diversified,
+1556251D US,Powercomm Holdings Inc,0.093,84,5.6,,23.33,0,,0, ,N.A.,0.0399762,,"0.10
+ - 0.10
+",,Engineering&Construction,Industrial,Building-Heavy Construct,
+1456463D US,Celebiddy Inc,0.085,,,,21.3,0,,0, ,N.A.,,,"0.10
+ - 0.10
+",,Internet,Communications,E-Commerce/Services,
+1237376D US,Fortuneswell Corp,0.08,,,,16,0,,0, ,N.A.,-0.000282,,"0.01
+ - 0.01
+",,Energy-Alternate Sources,Energy,Energy-Alternate Sources,
+VSBC US,VitaSpring Biomedical Co Ltd,0.0609,2161.5,22.5,50.7,5.03,0,,0,10/1/19,92851B102,0.000411736,,"0.03
+ - 0.03
+",,Pharmaceuticals,"Consumer, Non-cyclical",Vitamins&Nutrition Prod,
+1500835D US,Cantor Group Inc,0.06,,,,0,0,,0, ,N.A.,,,"0.02
+ - 0.02
+",,Apparel,"Consumer, Cyclical",Apparel Manufacturers,
+1489513D US,Artin Consulting Inc,0.0501,,,,28.009,0,,0, ,N.A.,-0.000609318,,"0.01
+ - 0.01
+",,Commercial Services,"Consumer, Non-cyclical",Consulting Services,
+HSCT US,Hoops Scouting USA,0.036,,,-411.6,0.5,0,,0, ,43917P205,-5.37E-06,,"0.08
+ - 0.08
+",,Internet,Communications,Internet Content-Info/Ne,
+1504409D US,Covey Park Energy Holdings LLC,0,,,,0,0,,0, ,N.A.,,, ,,Oil&Gas,Energy,Oil Comp-Explor&Prodtn,
+1489981D US,Adgero Biopharmaceuticals Holdings Inc,0,,,,6.7725,0,,0, ,N.A.,-0.4,, ,,Biotechnology,"Consumer, Non-cyclical",Medical-Biomedical/Gene,
+1489981D US,Newmark Grubb Knight Frank,0,,,,0,0,,0, ,,,, ,,,,,
+458412Z US,Eagle.Bank/OH,0,,,,0,0,,0, ,N.A.,,, ,,Banks,Financial,Commer Banks-Central US,

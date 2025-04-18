@@ -1,0 +1,334 @@
+Issuer Ticker,Issuer Name,Offer Size (M),Sales - 1 Yr Growth,Profit Margin,Return on Assets,Shares Outstanding (M),Offer Price,Offer To 1st Close,Market Cap at Offer (M),Trade Date (US),cusip,Cash Flow per Share,Instit Owner (Shares Held),Filing Term Price Range,Priced Range,Industry Group,Industry Sector,Industry Subgroup,Instit Owner (% Shares Out)
+VRSK US,Verisk Analytics Inc,2155.91,7.4,33.2,22.2,113.076,22,23.72727203,2487.67,10/7/09,92345Y106,8,1.39E+08,"19.00
+ - 21.00
+",Priced Above Range,Commercial Services,"Consumer, Non-cyclical",Consulting Services,99.2761
+MJN US,Mead Johnson Nutrition Co,828,-8,14.5,14.3,76.8446,24,10.125,1844.27,2/11/09,582839106,3.7,,"21.00
+ - 24.00
+",Priced Within Range,Pharmaceuticals,"Consumer, Non-cyclical",Vitamins&Nutrition Prod,
+NWP US,NewPage Group Inc,805,,,,0,0,,0, ,N.A.,,, ,,Forest Products&Paper,Basic Materials,Paper&Related Products,
+MRC US,MRC Global Inc,750,-7.8,1.8,3.1,0,0,,0, ,55345K103,3.2,8.62E+07, ,,Distribution/Wholesale,"Consumer, Cyclical",Distribution/Wholesale,100.017
+ART US,Artio Global Investors Inc,718.748,,,-21.7,27.6511,26,4.807692528,718.93,9/24/09,04315B107,,,"24.00
+ - 26.00
+",Priced Within Range,Diversified Finan Serv,Financial,Invest Mgmnt/Advis Serv,
+538191Z US,Liquidnet Holdings Inc,500,,,,0,0,,0, ,53634W508,,, ,,Diversified Finan Serv,Financial,Finance-Invest Bnkr/Brkr,
+UPR US,US Power Generating Co,500,,,,0,0,,0, ,N.A.,,, ,,Electric,Utilities,Independ Power Producer,
+AONEQ US,B456 Systems Inc,428.316,63.5,-161.9,-66.3,98.1805,13.5,50.29629517,1325.44,9/24/09,03739T108,-2,,"10.00
+ - 11.50
+",Priced Above Range,Electrical Compo&Equip,Industrial,Batteries/Battery Sys,
+1873532D US,Change Healthcare Holdings Inc,422.453,9.3,-6.5,-1.9,88.4678,15.5,6.580645084,1371.25,8/12/09,29084T104,,,"13.50
+ - 15.50
+",Priced Within Range,Software,Technology,Data Processing/Mgmt,
+GNT US,GAMCO Natural Resources Gold & Income Trust,410.176,,,,0,20,0.05000000075,0,1/27/11,3.65E+105,,5.41E+06,"20.00
+ - 20.00
+",Priced Within Range,Closed-end Funds,Financial,Closed-end Funds,33.4246
+2830333Z US,IPC Systems Holdings Corp,400,,,,0,0,,0, ,N.A.,,, ,,Telecommunications,Communications,Telecom Services,
+ENOV US,Enovis Corp,388.125,23.4,-39.1,-17.8,44.006,18,16.66666603,792.11,5/8/08,194014502,2,6.79E+07,"15.00
+ - 17.00
+",Priced Above Range,Healthcare-Products,"Consumer, Non-cyclical",Medical Products,118.922
+2725374Z US,Market Street Acquisition Corp,350,,,,0,0,,0, ,N.A.,,,"10.00
+ - 10.00
+",,Holding Companies-Divers,Diversified,Specified Purpose Acquis,
+LLACU US,Liberty Lane Acquisition Corp,350,,,,35,0,,0, ,530685205,,,"10.00
+ - 10.00
+",,Holding Companies-Divers,Diversified,Specified Purpose Acquis,
+2734610Z US,BHG Acquisition Corp,350,,,,0,0,,0, ,N.A.,,,"10.00
+ - 10.00
+",,Holding Companies-Divers,Diversified,Specified Purpose Acquis,
+SEM US,Select Medical Holdings Corp,336.027,-22.1,4.1,3.2,159.696,10,0.8999999762,1596.96,9/25/09,81619Q105,4.1,1.13E+08,"11.00
+ - 13.00
+",Priced Below Range,Healthcare-Services,"Consumer, Non-cyclical",Medical-Hospitals,87.4127
+1922758D US,Aviv REIT Inc,315.4,30.4,19.4,2.1,31.0707,0,,0, ,05381L101,2.3,,"17.00
+ - 19.00
+",,REITS,Financial,REITS-Health Care,
+2727355Z US,Oasis Group Inc,300,,,,37.5,0,,0, ,N.A.,,,"10.00
+ - 10.00
+",,Investment Companies,Financial,Capital Pools,
+2643690Z US,Mistral Acquisition Co,300,,,,37.5,0,,0, ,N.A.,,,"10.00
+ - 10.00
+",,Holding Companies-Divers,Diversified,Specified Purpose Acquis,
+BEI US,Brand Energy Inc,300,,-4.6,,0,0,,0, ,N.A.,,, ,,Oil&Gas Services,Energy,Oil-Field Services,
+2666577Z US,K Road Acquisition Corp,300,,,,0,0,,0, ,482666203,,,"10.00
+ - 10.00
+",,Holding Companies-Divers,Diversified,Specified Purpose Acquis,
+2772508Z US,Angelo Gordon Acquisition Corp,300,,,,30,0,,0, ,N.A.,,,"10.00
+ - 10.00
+",,Holding Companies-Divers,Diversified,Specified Purpose Acquis,
+GNS/U US,Greenstreet Acquisition Corp,300,,,,46.875,0,,0, ,395738206,,,"8.00
+ - 8.00
+",,Holding Companies-Divers,Diversified,Specified Purpose Acquis,
+HTG US,HT Capital Corp,300,,,,0,0,,0, ,N.A.,,, ,,Diversified Finan Serv,Financial,Invest Mgmnt/Advis Serv,
+2321846D US,CapitalSource Healthcare REIT,294,246.6,10.6,,42.105,0,,0, ,14056T100,,,"18.00
+ - 21.00
+",,REITS,Financial,REITS-Health Care,
+DGI US,DigitalGlobe Inc,279.3,3.2,3.6,0.2,44.871,19,13.15789509,852.55,5/14/09,25389M877,4.7,3133,"16.00
+ - 18.00
+",Priced Above Range,Telecommunications,Communications,Satellite Telecom,0.00503286
+HTS US,Hatteras Financial Corp,276,-13.4,27.1,0.0933062,34.9589,24,2.833333254,839.01,4/25/08,41902R103,3.5,,"24.00
+ - 26.00
+",Priced Within Range,REITS,Financial,REITS-Mortgage,
+RAR/U US,RAI Acquisition Corp,250,,,,25,0,,0, ,749220208,,,"10.00
+ - 10.00
+",,Holding Companies-Divers,Diversified,Specified Purpose Acquis,
+1873771D US,Point Asset Management Inc,250,,,,0,0,,0, ,730523107,,, ,,REITS,Financial,REITS-Mortgage,
+OSW/U US,Orbit Acquisition Corp,250,,,,31.25,0,,0, ,N.A.,,,"10.00
+ - 10.00
+",,Holding Companies-Divers,Diversified,Specified Purpose Acquis,
+2688179Z US,Tri-Artisan Acquisition Corp,250,,,,0,0,,0, ,N.A.,,,"10.00
+ - 10.00
+",,Holding Companies-Divers,Diversified,Specified Purpose Acquis,
+1553949D US,Vought Aircraft Holdings Inc,250,,,,0,0,,0, ,N.A.,,, ,,Aerospace/Defense,Industrial,Aerospace/Defense,
+CWR US,CWCapital Realty Trust Inc,250,,,,0,0,,0, ,N.A.,,, ,,REITS,Financial,REITS-Mortgage,
+EMY US,Edgen Murray Ltd,250,33.5,0.3,,0,0,,0, ,N.A.,,, ,,Distribution/Wholesale,"Consumer, Cyclical",Distribution/Wholesale,
+WIND US,First Wind Holdings Inc,240,90.6,-79.2,,24.676,0,,0, ,337561104,-0.0838534,,"18.00
+ - 20.00
+",,Electric,Utilities,Electric-Generation,
+0852651D US,Metals USA Holdings Corp,239.953,5.1,2.6,5.3,37.0248,21,-8.571428299,777.52,4/9/10,59132A104,1.8,,"18.00
+ - 20.00
+",Priced Above Range,Iron/Steel,Basic Materials,Steel-Producers,
+2890919Z LN,Global Real Estate Corp,237.804,,,,0,0,,0, ,N.A.,,, ,,Real Estate,Financial,Real Estate Mgmnt/Servic,
+2672022Z US,Apple Creek Acquisition Corp,225,,,,22.5,0,,0, ,N.A.,,,"10.00
+ - 10.00
+",,Holding Companies-Divers,Diversified,Specified Purpose Acquis,
+2341723Z US,China Energy Partners Inc,200,,,,20,0,,0, ,N.A.,,,"10.00
+ - 10.00
+",,Holding Companies-Divers,Diversified,Specified Purpose Acquis,
+JWL/U US,JWL Partners Acquisition Corp,200,,,,25,0,,0, ,N.A.,,,"10.00
+ - 10.00
+",,Holding Companies-Divers,Diversified,Specified Purpose Acquis,
+AGNC US,AGNC Investment Corp,200,53.8,22.1,1,15.0046,20,-3.25,300.09,5/15/08,00123Q104,0.1,3.68E+08,"20.00
+ - 20.00
+",Priced Within Range,REITS,Financial,REITS-Mortgage,40.1661
+2630021Z US,Grail Investment Corp,200,,,,0,0,,0, ,384750204,,,"10.00
+ - 10.00
+",,Holding Companies-Divers,Diversified,Specified Purpose Acquis,
+NSX/U US,National Security Solutions Inc,200,,,,0,0,,0, ,N.A.,,,"10.00
+ - 10.00
+",,Investment Companies,Financial,Investment Companies,
+2732961Z US,J W Childs Acquisition I Corp,200,,,,25,0,,0, ,46632Q200,,,"10.00
+ - 10.00
+",,Holding Companies-Divers,Diversified,Specified Purpose Acquis,
+2938449Z US,Greenwich PMV Acquisition Corp,200,,,,0,0,,0, ,39700L203,,,"10.00
+ - 10.00
+",,Holding Companies-Divers,Diversified,Specified Purpose Acquis,
+PHOS US,Phosphate Holdings Inc,200,34.9,-0.2,-4.6,0,0,,0, ,71922F102,,25010, ,,Chemicals,Basic Materials,Agricultural Chemicals,0.297338
+AGAM US,AGA Medical Holdings Inc,199.375,,,-4.6,50.0255,14.5,0.6896551847,725.37,10/21/09,8368102,,,"15.00
+ - 16.00
+",Priced Below Range,Healthcare-Products,"Consumer, Non-cyclical",Medical Instruments,
+NUW US,Nuveen AMT-Free Municipal Value Fund,189,,,,0,15,0,0,2/25/09,670695105,,7.86E+06,"15.00
+ - 15.00
+",Priced Within Range,Closed-end Funds,Financial,Closed-end Funds,43.7772
+RAX US,Rackspace Technology Global Inc,187.5,,6.3,8.1,115.445,12.5,-19.92000008,1443.06,8/8/08,750086100,4.2,,"12.00
+ - 16.00
+",Priced Within Range,Software,Technology,Computer Software,
+IVR US,Invesco Mortgage Capital Inc,176.224,41.6,18.2,1,8.9113,20,-2.900000095,178.23,6/26/09,46131B704,3.5,2.59E+07,"20.00
+ - 20.00
+",Priced Within Range,REITS,Financial,REITS-Mortgage,39.6127
+2747490Z US,Leopard Acquisition Corp,175,,,,21.875,0,,0, ,N.A.,,,"10.00
+ - 10.00
+",,Holding Companies-Divers,Diversified,Specified Purpose Acquis,
+FRB CN,Forbes Energy Services Ltd,174.927,42.1,-18,-32.3,0,7,-1.428571463,0, ,345143101,,, ,,Oil&Gas Services,Energy,Oil-Field Services,
+1655912D US,SolarWinds North America Inc,174.171,27.8,18.2,11.2,64.1863,12.5,10,802.33,5/20/09,83416B109,2.6,,"9.50
+ - 11.50
+",Priced Above Range,Software,Technology,Communications Software,
+0369288D US,Dave & Buster's Holdings Inc,170,,,,0,0,,0, ,238339105,,, ,,Retail,"Consumer, Cyclical",Retail-Restaurants,
+PMG US,Managed Care Risk Services Holdings Inc,169.6,69.5,-0.2,,23.3909,0,,0, ,70336V109,,,"8.00
+ - 8.00
+",,Insurance,Financial,Property/Casualty Ins,
+ZVOI US,Zovio Inc,163.012,-33.7,-16.1,-36.2,53.1397,10.5,5.714285851,557.97,4/15/09,98979V102,-0.4,3.67E+06,"14.00
+ - 16.00
+",Priced Below Range,Software,Technology,Educational Software,10.7167
+2723106Z US,United Services Management Corp,160,,,,20,0,,0, ,N.A.,,,"10.00
+ - 10.00
+",,Holding Companies-Divers,Diversified,Specified Purpose Acquis,
+RRTS US,Roadrunner Transportation Systems Inc,154.055,-16.6,-18.4,-44.7,29.9388,14,-1.785714269,419.14,5/13/10,76973Q204,-3,4,"14.00
+ - 16.00
+",Priced Within Range,Transportation,Industrial,Transport-Truck,1.06E-05
+2730204Z US,PJSC Acquisition Corp,150,,,,18.75,0,,0, ,69339V207,,,"10.00
+ - 10.00
+",,Holding Companies-Divers,Diversified,Specified Purpose Acquis,
+TCY/U US,Transformation Capital Corp,150,,,,18.75,0,,0, ,N.A.,,,"10.00
+ - 10.00
+",,Holding Companies-Divers,Diversified,Specified Purpose Acquis,
+2680594Z US,Delos Acquisition Corp,150,,,,0,0,,0, ,N.A.,,,"10.00
+ - 10.00
+",,Holding Companies-Divers,Diversified,Specified Purpose Acquis,
+JOA/U US,Opportunity Acquisition Corp,150,,,,18.75,0,,0, ,68384U205,,,"10.00
+ - 10.00
+",,Holding Companies-Divers,Diversified,Specified Purpose Acquis,
+2757385Z US,CR Acquisition Corp,150,,,,0,0,,0, ,N.A.,,,"10.00
+ - 10.00
+",,Holding Companies-Divers,Diversified,Specified Purpose Acquis,
+2666045Z US,KBL Acquisition Corp IV,150,,,,0,0,,0, ,48241W206,,,"10.00
+ - 10.00
+",,Holding Companies-Divers,Diversified,Specified Purpose Acquis,
+GEH/U US,Global Entertainment & Media Holdings Corp,150,,,,18.75,0,,0, ,37990J201,,,"10.00
+ - 10.00
+",,Holding Companies-Divers,Diversified,Specified Purpose Acquis,
+MDQ/U US,Madison Square Capital Inc,150,,,,10,0,,0, ,558253209,,,"15.00
+ - 15.00
+",,REITS,Financial,REITS-Mortgage,
+1721140D US,Crown Castle NG Networks LLC,150,,,,0,0,,0, ,65338Q108,,, ,,Telecommunications,Communications,Wireless Equipment,
+LOPE US,Grand Canyon Education Inc,144.9,7.5,21.9,23.2,45.3065,12,-1.25,543.68,11/20/08,38526M106,9.9,2.91E+07,"12.00
+ - 14.00
+",Priced Within Range,Commercial Services,"Consumer, Non-cyclical",Schools,101.228
+0124211D US,Accuro Healthcare Solutions Inc,143.75,,,,0,0,,0, ,00439N100,,, ,,Software,Technology,Medical Information Sys,
+II US,Peopleconnect Inc,143.75,,,,0,0,,0, ,45823D101,,, ,,Internet,Communications,E-Commerce/Services,
+ERII US,Energy Recovery Inc,136.85,12.9,15.9,9.3,47.9175,8.5,15.64705849,407.3,7/2/08,29270J100,0.3,5.08E+07,"7.00
+ - 9.00
+",Priced Within Range,Environmental Control,Industrial,Water Treatment Systems,92.3733
+RST US,Rosetta Stone Inc,129.375,5.2,-7,-10.4,20.3145,18,39.55555725,365.66,4/16/09,777780107,0.7,,"15.00
+ - 17.00
+",Priced Above Range,Software,Technology,Educational Software,
+OGAR US,O'Gara Group Inc/The,128,,,,12.2214,0,,0, ,67085B102,,,"14.00
+ - 16.00
+",,Commercial Services,"Consumer, Non-cyclical",Security Services,
+OXE/U US,Open Acquisition Corp,125,,,,0,0,,0, ,68371F203,,,"10.00
+ - 10.00
+",,Holding Companies-Divers,Diversified,Specified Purpose Acquis,
+MG US,Mistras Group Inc,125,3.4,2.6,3.6,26.4588,12.5,0.6399999857,330.74,10/8/09,60649T107,1.6,2.10E+07,"14.00
+ - 16.00
+",Priced Below Range,Engineering&Construction,Industrial,Engineering/R&D Services,67.0371
+2938317Z US,Gabelli Entertainment & Telecommunications Acquisition Corp,125,,,,25,0,,0, ,3623XA206,,,"10.00
+ - 10.00
+",,Holding Companies-Divers,Diversified,Specified Purpose Acquis,
+LOGM US,GoTo Group Inc,122.667,4.6,-1.1,0.2,22.3833,16,25.125,358.13,7/1/09,54142L109,7.2,,"14.00
+ - 16.00
+",Priced Within Range,Telecommunications,Communications,Networking Products,
+TBNK US,Territorial Bancorp Inc,122.331,4.6,-12.5,-0.2,0,10,49.90000153,0,7/13/09,88145X108,-0.8,4.98E+06,"10.00
+ - 10.00
+",Priced Within Range,Savings&Loans,Financial,S&L/Thrifts-Western US,56.4127
+0882565D US,Sizmek Technologies Inc,115,,,9.2,0,0,,0, ,58449C100,,, ,,Advertising,Communications,Advertising Services,
+3679536Q LN,Resaca Exploitation Inc,106.339,26.6,31.1,4.5,92.2587,130,2.989478111,240.144, ,N.A.,0.4,, ,,Oil&Gas,Energy,Oil Comp-Explor&Prodtn,
+SLRC US,SLR Investment Corp,105.097,1.3,41.2,3.8,32.9309,18.5,-2.702702761,609.22,2/9/10,83413U100,5.6,2.58E+07,"19.00
+ - 21.00
+",Priced Below Range,Investment Companies,Financial,Investment Companies,47.2371
+0768552D US,Green Energy & Growth Fund Inc,101.25,,,,6.795,0,,0, ,N.A.,,,"15.00
+ - 15.00
+",,Closed-end Funds,Financial,Closed-end Funds,
+2591118Z US,Bostwick Laboratories Inc,100,,,,0,0,,0, ,N.A.,,, ,,Healthcare-Services,"Consumer, Non-cyclical",Medical Labs&Testing Srv,
+LCA/U US,Lambert's Cove Acquisition Corp,100,,,,12.5,0,,0, ,513304204,,,"10.00
+ - 10.00
+",,Holding Companies-Divers,Diversified,Specified Purpose Acquis,
+CRTM US,Current Media Inc,100,,,,0,0,,0, ,231306101,,, ,,Media,Communications,Television,
+2669084Z US,Corporate Acquirers Inc,100,,,,0,0,,0, ,219879202,,,"10.00
+ - 10.00
+",,Holding Companies-Divers,Diversified,Specified Purpose Acquis,
+FNTCU US,CardConnect Corp,100,,-2.7,,12.5,0,,0, ,31809H209,,,"10.00
+ - 10.00
+",,Commercial Services,"Consumer, Non-cyclical",Commercial Serv-Finance,
+MTPK US,Metropark USA Inc,100,,,,0,0,,0, ,591703103,,, ,,Retail,"Consumer, Cyclical",Retail-Apparel/Shoe,
+8183737Z US,TherOx Inc,100,,,,0,0,,0, ,883676108,,, ,,Healthcare-Products,"Consumer, Non-cyclical",Medical Instruments,
+CDXS US,Codexis Inc,100,-15.3,-109.9,-45.7,0,0,,0, ,192005106,-0.6,7.42E+07, ,,Chemicals,Basic Materials,Chemicals-Diversified,89.5932
+3009059Z US,Regian Acquisition Corp,100,,,,12.5,0,,0, ,N.A.,,,"10.00
+ - 10.00
+",,Holding Companies-Divers,Diversified,Specified Purpose Acquis,
+ABO US,Alon Brands Inc,100,,,,0,0,,0, ,02051R104,,, ,,Retail,"Consumer, Cyclical",Retail-Misc/Diversified,
+NORNQ US,Noranda Aluminum Holding Corp,92,-9.3,-21.1,,55.2882,8,10,442.31,5/14/10,65542W206,1.8,593726,"8.00
+ - 9.00
+",Priced Within Range,Mining,Basic Materials,Metal-Aluminum,5.92149
+2724885Z US,Sidhu Special Purpose Capital Corp,90,,,,0,0,,0, ,825887201,,,"10.00
+ - 10.00
+",,Holding Companies-Divers,Diversified,Specified Purpose Acquis,
+HBCP US,Home Bancorp Inc,89.2688,11.8,27,1,0,10,14.89999962,0,10/3/08,4.37E+111,6.1,4.46E+06,"10.00
+ - 10.00
+",Priced Within Range,Savings&Loans,Financial,S&L/Thrifts-Southern US,55.5485
+AGMX US,AutoGenomics Inc,86.3,-1.7,-39.1,,0,0,,0, ,05277R105,-0.5,, ,,Healthcare-Products,"Consumer, Non-cyclical",Diagnostic Equipment,
+BHTX US,Bayhill Therapeutics Inc,86.25,,,,0,0,,0, ,07278M101,,, ,,Pharmaceuticals,"Consumer, Non-cyclical",Therapeutics,
+3211372Z US,Cardiovascular Systems Inc/Old,86.25,,,,0,0,,0, ,141617100,,, ,,Healthcare-Products,"Consumer, Non-cyclical",Medical Instruments,
+PHMX US,Phenomix Corp,86.25,,,,0,0,,0, ,717418107,,, ,,Pharmaceuticals,"Consumer, Non-cyclical",Therapeutics,
+ZGNX US,Zogenix Inc,86.25,498.7,-278.3,-40.6,0,0,,0, ,98978L204,-3.3,2.34E+07, ,,Pharmaceuticals,"Consumer, Non-cyclical",Medical-Drugs,41.6131
+MSTM US,Metastorm Inc,86.25,,,,0,0,,0, ,N.A.,,, ,,Internet,Communications,E-Commerce/Services,
+2677666Z US,IDS Group Inc,86.25,,,,0,0,,0, ,N.A.,,, ,,Software,Technology,Enterprise Software/Serv,
+SLNT US,Medtronic Advanced Energy LLC,86.25,,,,0,0,,0, ,79471P108,,, ,,Healthcare-Products,"Consumer, Non-cyclical",Medical Products,
+2413210D US,ZONARE Medical Systems Inc,86.25,,,,0,0,,0, ,98977N102,,, ,,Healthcare-Products,"Consumer, Non-cyclical",Ultra Sound Imaging Sys,
+LAB US,Standard BioTools Inc,84.8,64,-79.6,-29.6,24.7905,0,,0, ,34385P108,-0.4,3.14E+08,"14.00
+ - 16.00
+",,Electronics,Industrial,Instruments-Scientific,82.9792
+ALDH US,Aldagen Inc,80.5,-15.2,-5698.9,,0,0,,0, ,01408L109,,, ,,Healthcare-Products,"Consumer, Non-cyclical",Medical Products,
+GOMZ US,Gomez Inc,80.5,,,,0,0,,0, ,381746106,,, ,,Computers,Technology,Computer Services,
+2771291Z US,GF Acquisition Corp,80,,,,8,0,,0, ,N.A.,,,"10.00
+ - 10.00
+",,Holding Companies-Divers,Diversified,Specified Purpose Acquis,
+ECHO US,Echo Global Logistics Inc,79.8,14.9,0.6,5.6,21.4937,14,0.4285714328,300.912,10/2/09,27875T101,2.4,,"13.00
+ - 15.00
+",Priced Within Range,Transportation,Industrial,Transport-Services,
+BTRV US,BioTrove Corp,75,,,,0,0,,0, ,90675109,,, ,,Healthcare-Products,"Consumer, Non-cyclical",Diagnostic Equipment,
+EPOC US,Epocrates LLC,75,-1.9,-3,-2.3,0,0,,0, ,29429D103,-0.1,, ,,Software,Technology,Medical Information Sys,
+ALIM US,Alimera Sciences Inc,75,49.1,-24.9,-9.6,0,0,,0, ,16259202,-0.5,3.58E+06, ,,Pharmaceuticals,"Consumer, Non-cyclical",Medical-Drugs,6.58831
+CMEZ US,Calvert Street Capital Corp,69.328,,,,6.69555,0,,0, ,N.A.,,,"14.00
+ - 16.00
+",,Closed-end Funds,Financial,Closed-end Funds,
+NXSN US,Nexsan Corp,69,,,,0,0,,0, ,65334S207,,, ,,Computers,Technology,Computers-Memory Devices,
+OMER US,Omeros Corp,68.2,,,-47.8,21.2876,10,-12.69999981,212.88,10/8/09,682143102,-2.5,2.73E+07,"10.00
+ - 12.00
+",Priced Within Range,Biotechnology,"Consumer, Non-cyclical",Medical-Biomedical/Gene,46.9784
+SMGIU US,SMG Industries Inc,55,36.2,-16.3,-16.4,0,0,,0,2/27/09,78454K201,-0.0199288,,"5.00
+ - 5.00
+",,Transportation,Industrial,Transport-Truck,
+RGSEQ US,Real Goods Solar Inc,55,-18.3,-330.6,-149.3,13.3467,10,-12,133.47,5/8/08,75601N500,-0.3,1,"10.00
+ - 12.00
+",Priced Within Range,Energy-Alternate Sources,Energy,Energy-Alternate Sources,8.29E-07
+DJSPU US,DJSP Enterprises Inc,55,,17.1,104.5,0,8,1.5,0,8/12/08,N.A.,,,"8.00
+ - 8.00
+",Priced Within Range,Software,Technology,Data Processing/Mgmt,
+GWRS US,Global Water Resources Inc,50,-0.6,10.9,1.5,0,0,,0, ,379463102,0.9,9.48E+06, ,,Water,Utilities,Water,34.534
+1856826D US,CyDex Pharmaceuticals Inc,50,,,,0,0,,0, ,N.A.,,, ,,Pharmaceuticals,"Consumer, Non-cyclical",Medical-Drugs,
+FFNTQ US,FriendFinder Networks Inc,50,-4.8,-15.7,,26.7246,10,-21.5,267.25,5/11/11,358453306,0.4,5979,"10.00
+ - 12.00
+",Priced Within Range,Internet,Communications,Internet Content-Entmnt,0.0182132
+2857802Z US,Symphony Acquisition Corp,49,,,,7.65625,0,,0, ,87154H202,,,"8.00
+ - 8.00
+",,Holding Companies-Divers,Diversified,Specified Purpose Acquis,
+2857742Z US,Staccato Acquisition Corp,49,,,,7.65625,0,,0,4/21/09,85232H202,,,"8.00
+ - 8.00
+",,Holding Companies-Divers,Diversified,Specified Purpose Acquis,
+PAHC LN,Phibro Animal Health Corp,45,4,0.2,1.7,69,5,4.5,345, ,N.A.,2.1,, ,,Pharmaceuticals,"Consumer, Non-cyclical",Medical-Drugs,
+CWL US,Changing World Technologies Inc,33,125.6,-3378.2,,12.3898,0,,0, ,15911T102,,,"8.00
+ - 12.00
+",,Environmental Control,Industrial,Alternative Waste Tech,
+1853725D CN,Mood Media Corp/CA,26.5005,-2,-12.4,-9.3,0,2,-1.5,0, ,61534J105,0.1,, ,,Entertainment,"Consumer, Cyclical",Music,
+2683532Z US,Redstar Partners Inc,24,,,,0,0,,0, ,N.A.,,,"8.00
+ - 8.00
+",,Holding Companies-Divers,Diversified,Specified Purpose Acquis,
+HCI US,HCI Group Inc,11.6669,36.2,14.6,5.4,6.8487,7,-12.85714245,47.9409,7/31/08,4.04E+107,33.1,9.93E+06,"5.00
+ - 7.00
+",Priced Within Range,Insurance,Financial,Property/Casualty Ins,92.239
+HIBE US,Hibernia Bancorp Inc,11.1333,16.4,-3.4,-0.1,0,10,5,0,1/28/09,42866N104,0.5,,"10.00
+ - 10.00
+",Priced Within Range,Savings&Loans,Financial,S&L/Thrifts-Southern US,
+2892057Z CN,ID Watchdog Inc,10.0184,91.5,6.2,13.9,49.6988,0.6,,29.2892, ,N.A.,,, ,,Commercial Services,"Consumer, Non-cyclical",Commercial Services,
+SGLY US,Singularity Future Technology,9.525,-30.8,-162.8,-20.4,0,7.75,80.38710022,0,5/21/08,82935V307,-1.7,77243,"7.75
+ - 7.75
+",Priced Within Range,Transportation,Industrial,Transport-Marine,1.83759
+USRM US,US Stem Cell Inc,5.775,-59.1,-3483.2,-4801.7,14.447,5.25,-4.761904716,75.85,2/19/08,90350U100,-0.000515337,,"5.25
+ - 5.25
+",Priced Within Range,Biotechnology,"Consumer, Non-cyclical",Medical-Biomedical/Gene,
+2882961Z CN,Harvest Health & Recreation Inc,2.55386,98.2,-25.7,-5.7,0,0.25,,0, ,N.A.,,, ,,Pharmaceuticals,"Consumer, Non-cyclical",Medical-Drugs,
+PGDC CN,Patagonia Gold Corp,0.49225,-33.3,-76.6,-13.1,2.67697,0.3,-3.97E-06,0.7876, ,70289T101,-0.0121931,9.54E+07, ,,Mining,Basic Materials,Gold Mining,20.5104
+2847352Z CN,GTM Capital Corp,0.30363,,,,2.80867,0.2,,0.566776, ,36249J103,,, ,,Investment Companies,Financial,Investment Companies,
+ABV/H CN,Algae Biosciences Corp,0.2946,,,,3,0.2,-75,0.5892, ,01551T107,,, ,,Miscellaneous Manufactur,Industrial,Advanced Materials/Prd,
+KLH CN,Edesa Biotech Inc,0.29379,,,-101.8,5,0.1,100,0.48965, ,85855A203,,, ,,Biotechnology,"Consumer, Non-cyclical",Medical-Biomedical/Gene,
+IOM CN,Assure Holdings Corp,0.19828,-97.6,-10226.6,-164.2,4,0.1,160,0.39656, ,04625J204,-1.1,, ,,Healthcare-Products,"Consumer, Non-cyclical",Medical Instruments,
+LCT CN,LCTI Low Carbon Technologies International Inc,0.11423,,,,4,0.1,,0.37148, ,50184H105,,, ,,Energy-Alternate Sources,Energy,Energy-Alternate Sources,
+KSG US,K-Sea GP Holdings LP,0,,,,15,0,,0, ,N.A.,,, ,,Transportation,Industrial,Transport-Marine,
+2676765Z US,Venoco Acquisition Co LP,0,,,,15.5907,0,,0, ,N.A.,,, ,,Oil&Gas,Energy,Oil Comp-Explor&Prodtn,
+RHNO US,Rhino Resource Partners LP,0,-26.7,-54.9,-46.4,0,0,,0, ,76218Y202,-0.7,1831, ,,Coal,Energy,Coal,0.0139999
+LPS US,Black Knight InfoServ LLC,0,0.7,3.5,4.6,0,0,,0,6/24/08,5.26E+106,5.1,, ,,Software,Technology,Transactional Software,
+886856Z US,Open Link Financial Inc,0,,,,0,0,,0, ,N.A.,,, ,,Software,Technology,Enterprise Software/Serv,
+MFR US,MFResidential Investments Inc,0,,,,0,0,,0, ,55276A108,,, ,,REITS,Financial,REITS-Mortgage,
+2844366Z US,Petra Real Estate Opportunity Trust,0,,,,0,0,,0, ,N.A.,,, ,,REITS,Financial,REITS-Mortgage,
+2842065Z CN,Western Exploration & Development Ltd,0,,,,0,0,,0, ,95816P108,,, ,,Mining,Basic Materials,Gold Mining,
+CPN US,Calpine Corp,0,5.8,7.6,3.8,0,0,,0,1/10/08,131347304,,, ,,Electric,Utilities,Independ Power Producer,
+2629905Z US,Nuveen Credit Strategies Fund,0,,,,0,0,,0, ,N.A.,,,"20.00
+ - 20.00
+",,Closed-end Funds,Financial,Closed-end Funds,
+KDP US,Keurig Dr Pepper Inc,0,3.6,9.3,2.7,0,0,,0,4/28/08,49271V100,1.6,1.28E+09, ,,Beverages,"Consumer, Non-cyclical",Beverages-Non-alcoholic,94.112
+SFYK US,Safety-Kleen Inc,0,,,,54.9715,0,,0, ,78649R103,,,"15.00
+ - 17.00
+",,Environmental Control,Industrial,Hazardous Waste Disposal,
+GTC US,Galiot Capital Corp,0,,,,0,0,,0, ,363579103,,, ,,REITS,Financial,REITS-Mortgage,
+2847144Z US,Acclarent Inc,0,,,,0,0,,0, ,4327102,,, ,,Healthcare-Products,"Consumer, Non-cyclical",Medical Products,
+STRI US,STR Holdings Inc,0,-19.6,-52.9,-32.9,0,0,,0, ,78478V209,-0.2,, ,,Miscellaneous Manufactur,Industrial,Advanced Materials/Prd,
+TAT/U US,Dr TATTOFF Inc,0,,,,0,0,,0, ,N.A.,,, ,,Commercial Services,"Consumer, Non-cyclical",Health Care Cost Contain,
+NEPI US,Noble Environmental Power LLC,0,,,,0,0,,0, ,N.A.,,, ,,Energy-Alternate Sources,Energy,Energy-Alternate Sources,
+MWAV US,Spheric Technologies Inc,0,,,,6.90375,0,,0,10/15/09,84841P101,-0.1,, ,,Miscellaneous Manufactur,Industrial,Miscellaneous Manufactur,
