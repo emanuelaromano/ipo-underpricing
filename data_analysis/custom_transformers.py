@@ -5,7 +5,6 @@ from sklearn.utils.validation import check_array, check_is_fitted
 class LogTransformer(BaseEstimator, TransformerMixin):
     """
     A custom transformer that applies log transformation to positive values.
-    Handles zero and negative values by adding a small constant before transformation.
     """
     
     def __init__(self, add_constant=1.0):
