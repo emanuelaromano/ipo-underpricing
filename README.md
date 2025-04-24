@@ -2,7 +2,7 @@
 
 ## Overview
 
-Initial Public Offerings (IPOs) represent a critical event in a company's lifecycle, marking the transition from private to public ownership. The pricing of these newly-issued stocks has significant implications not only for the issuing firms but also for investors, underwriters, and the broader market. A key phenomenon observed in IPOs is mispricing, which occurs when the stock's trading price on the first day diverges from its offering price. In particular, a stock is considered underpriced if its closing price on the first day of trading exceeds its IPO listing price - while often favorable for investors, this condition may result in substantial capital left on the table for the issuing company.
+Initial Public Offerings (IPOs) mark a company's shift from private to public ownership. A common issue in IPOs is mispricing—when the first-day closing price differs from the offer price. Underpricing, where the stock closes above its IPO price, benefits investors but may lead to lost capital for the issuing firm.
 
 ## Project Objectives
 
@@ -14,5 +14,12 @@ Our project focuses on analyzing and predicting the first-day trading performanc
 Understanding IPO mispricing has broad practical relevance:
 - For investors: The ability to forecast underpricing presents a potential strategy to capture early gains and better manage risks during the volatile post-IPO period
 - For underwriters and issuing companies: Accurate pricing is crucial - setting the offering price too low can lead to significant opportunity costs, while pricing it too high can reduce investor demand and result in a failed IPO
+
+## Data Sources
+
+The project utilizes multiple data sources to ensure comprehensive analysis:
+- Historical IPO data from Bloomberg
+- Macroeconomic indicators from Federal Reserve Economic Data (FRED)
+
 
 
